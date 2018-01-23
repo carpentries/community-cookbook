@@ -1,0 +1,17 @@
+# More about Study Groups
+
+# What are they?
+
+Describe what study groups are.
+
+# How to start one?
+
+What are the steps to bring a study group to your own institution?
+
+# Advice and peer support
+
+Outline the periodic study group international meetings and how study groups support each other.
+
+# See if there are Study Groups near you
+
+FIXME - link to Study Group website/map
