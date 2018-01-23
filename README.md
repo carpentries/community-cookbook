@@ -1,3 +1,11 @@
+## Table of Contents
+
+* [Initiation](initiation.md) - How to get started if you don't know where to start
+* [Activities & Events](activities.md) - What are the various kinds of activities that can help you engage others and build your community
+* [Tools/Infratstructure](tools.md) - What tools and infrastructure can make it easy for your community to connect and collaborate?
+* [Support Sturctures](support.md) - How to build activities and events into your institution so they can persist
+* [Appendix](appendix.md) - Other relevant tools and information
+
 ## Introduction
 
 Welcome to the Carpentries' Community Cookbook!
@@ -15,12 +23,4 @@ The Carpentries have found that developing local communities takes intentional a
 A community of practice is simply a group of people who share a particular craft or shared purpose with each other. In the case of The Carpentries communities, this tends to be communities around computational skills applied toward research. How exactly this looks at your organization or institution is up to you. Some communities support bioinformaticians in their efforts to wrangle and improve bioinformatics workflows. Others cast wide nets with terms like "Digital Scholarship" to invite and include those from all disciplines and backgrounds to come together for support around computational skills. Still others run small very focused study groups or book clubs on niche topics, working to support each other as they develop new skills. How or what you develop is up to you, you'll probably find that you already have some communities of practice you participate in. Whether it is your lab group, the team you work for, or a cross-institutional collaboration you're a part of, these are all communities of practice.
 
 In this cookbook we look to gather from our global community the practices they use to initiate and cultivate these communities. If you have a particular practice that has worked for you, we invite you to contribute it to our community. Please open an [issue](https://github.com/carpentries/community-cookbook/issues) or [pull request](https://github.com/carpentries/community-cookbook/pulls) and our cookbook maintainers will work with you to integrate the idea into our cookbook.
-
-## Structure
-
-* [Initiation](initiation.md) - How to get started if you don't know where to start
-* [Activities & Events](activities.md) - What are the various kinds of activities that can help you engage others and build your community
-* [Tools/Infratstructure](tools.md) - What tools and infrastructure can make it easy for your community to connect and collaborate?
-* [Support Sturctures](support.md) - How to build activities and events into your institution so they can persist
-* [Appendix](appendix.md) - Other relevant tools and information
 
