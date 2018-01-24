@@ -60,9 +60,9 @@ templates_path = ['_templates']
 master_doc = 'index'
 
 # General information about the project.
-project = 'Carpentries Users Guide'
-copyright = '2017, Authors'
-author = 'Authors'
+project = 'The Carpentries Community Cookbook'
+copyright = '2017, The Carpentries, a fiscally sponsored project of Community Initiatives'
+author = 'A Collaborative work of The Carpentries Community Members'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
