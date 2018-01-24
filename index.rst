@@ -2,7 +2,7 @@ The Carpentries Community Cookbook
 ----------------------------------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1 
    :caption: Introduction
    :glob:
 
@@ -10,7 +10,7 @@ The Carpentries Community Cookbook
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Initiation
    :glob:
 
@@ -18,7 +18,7 @@ The Carpentries Community Cookbook
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Activities
    :glob:
 
@@ -26,7 +26,7 @@ The Carpentries Community Cookbook
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Tools
    :glob:
 
@@ -34,7 +34,7 @@ The Carpentries Community Cookbook
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Support Structures
    :glob:
 
@@ -43,7 +43,7 @@ The Carpentries Community Cookbook
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Appendix
    :glob:
 
