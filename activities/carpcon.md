@@ -2,7 +2,7 @@
 
 CarpentryCon is the key community building and networking event in the Carpentries' annual calendar.
 
-The 2018 CarpentryCon will be held from 30 May - 1 June at University College, Dublin.
+The inaugural 2018 CarpentryCon will be held from 30 May - 1 June at University College, Dublin.
 
 The theme of CarpentryCon 2018 is *Building Locally, Connecting Globally*.
 
