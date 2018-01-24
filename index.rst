@@ -38,7 +38,7 @@ The Carpentries Community Cookbook
    :caption: Support Structures
    :glob:
 
-   support-structures/*
+   support/*
 
 
 
