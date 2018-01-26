@@ -1,16 +1,8 @@
-## Table of Contents
-
-* [Initiation](initiation.md) - How to get started if you don't know where to start
-* [Activities & Events](activities.md) - What are the various kinds of activities that can help you engage others and build your community
-* [Tools/Infratstructure](tools.md) - What tools and infrastructure can make it easy for your community to connect and collaborate?
-* [Support Sturctures](support.md) - How to build activities and events into your institution so they can persist
-* [Appendix](appendix.md) - Other relevant tools and information
-
 ## Introduction
 
 Welcome to the Carpentries' Community Cookbook!
 
-The aim of this repository is to provide a place to gather together links, background, and personal stories about a range of community building tools. We want this to be a collaborative space. We aim to provide 'recipes' to allow you to create your own strong, local communities based on the local 'ingredients' you have to hand. Every town, every country is different, so there is no single 'right' way to create a local community from scratch. However, the ideas gathered here should provide some 'recipes' for you to try, knowing that these have been tested in other people's 'kitchens'. But you will add the local 'flavour' that makes your own community unique. Come join us at our [quarterly Champions calls](http://pad.software-carpentry.org/champions), where we share ideas and support those trying to build their own local research computing skills community of practice.
+The aim of this repository is to provide a place to gather together links, background, and personal stories about a range of community building tools. We want this to be a collaborative space. We aim to provide 'recipes' to allow you to create your own strong, local communities based on the local 'ingredients' you have to hand. Every town, every country is different, so there is no single right way to create a local community. However, the ideas gathered here should provide some recipes for you to try, knowing that these have been tested in other people's 'kitchens'. But you will add the local 'flavour' that makes your own community unique. Come join us at our [quarterly Champions calls](http://pad.software-carpentry.org/champions), where we share ideas and support those trying to build their own local research computing skills community of practice.
 
 ## Building or improving your own local community
 
