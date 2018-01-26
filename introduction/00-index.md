@@ -16,3 +16,7 @@ A community of practice is simply a group of people who share a particular craft
 
 In this cookbook we look to gather from our global community the practices they use to initiate and cultivate these communities. If you have a particular practice that has worked for you, we invite you to contribute it to our community. Please open an [issue](https://github.com/carpentries/community-cookbook/issues) or [pull request](https://github.com/carpentries/community-cookbook/pulls) and our cookbook maintainers will work with you to integrate the idea into our cookbook.
 
+## Codes of Conduct
+
+The Carpentries community strongly encourages a Code of Conduct (CoC) being in place at all gathering places, online and offline. CoCs support open and collaborative environments and ensure there are stated rules for appropriate and inapropriate behavior. We encourage you to adopt/develop a CoC for any activities you plan and to notify your attendees/participants of the text and that they are expected to abide by. There are many great CoCs out there, and it is really up to you to select one that you feel fits the needs of your activities and community. For certain events, such as Carpentries workshops, you will be required to adopt [their CoC](http://software-carpentry.org/conduct) to run the event under their name.
+
