@@ -30,4 +30,4 @@ Shared documents can really enable collaborative and participatory engagement op
 ## Video Conferencing 
 * Google Hangouts - Free 
 * Zoom - Paid
-* [Jitsi](https://jitsi.org) - Free
+* [Jitsi Meet](https://meet.jit.si/) - Free, browser-based
