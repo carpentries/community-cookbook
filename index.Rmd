@@ -1,0 +1,17 @@
+--- 
+title: "The Carpentries Community Cookbook"
+author: "The Carpentries Community"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "This document serves as a guide for new community champions seeking to build a Carpentries community at their organization"
+
+---
+
+# Preface 
+
+The aim of this guide is to provide a place to gather together background, and personal stories about a range of community building tools and practices that are useful in creating peer learning communities in academic an research environments. Through this guide we hope to collect 'recipes' or practical tips and tricks to aid you in creating your own strong, local communities based on the local 'ingredients' you have on hand. Every campus and organization will be a bit different, so there is no single right way to create a local community. However, the ideas gathered here seek to provide ideas for you to try, knowing that these have been tested by others. Please don't see this guide as prescriptive of the exact steps that will work for you, but as an inventory of possibilities you can experiement with to make your own community unique. Come join us at our [quarterly Champions calls](http://pad.software-carpentry.org/champions), where we share ideas and support those trying to build their own local research computing communities of practice.
+

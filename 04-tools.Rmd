@@ -4,9 +4,9 @@
 
 Mailing lists can be a great way to keep a growing community connected to each other. Having a focused charter for each list can be helpful to reign in discusssions as well. As lists grow, and draw larger participation it can be important to develop a moderator team that is able to tend to moderator requests and keep the list conversations productive and civil. 
 
-**University lists** - Many universities and organizations run a campus-wide listserver where university members can create lists for open subscription. 
-**Mailman** - The open source tool [Mailman](http://www.list.org/) can be installed on a server and be used to run your own list infrastructure. This is recommended only if you have some system administration experience as it is a fairly advanced undertaking.
-**Google Groups** - Google groups are a free option which also alows for a publicly available archive of the messages to the group.
+* **University lists** - Many universities and organizations run a campus-wide listserver where university members can create lists for open subscription. 
+* **Mailman** - The open source tool [Mailman](http://www.list.org/) can be installed on a server and be used to run your own list infrastructure. This is recommended only if you have some system administration experience as it is a fairly advanced undertaking.
+* **Google Groups** - Google groups are a free option which also alows for a publicly available archive of the messages to the group.
 
 ## Newsletters
 
@@ -15,8 +15,9 @@ Staying in contact with your growing community can be done with email lists, or 
 * MailChimp - free and powerful for small groups
 
 ## Instant Messaging 
-* IRC - 
-* Gitter
+
+* IRC - Internet Relay Chat
+* [Gitter](https://gitter.im/) - 
 * Slack
 
 ## Shared Documents

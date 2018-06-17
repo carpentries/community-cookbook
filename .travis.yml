@@ -1,0 +1,22 @@
+language: r
+dist: trusty
+sudo: false
+branches:
+  only:
+  - master
+cache:
+  packages: true
+  directories:
+  - "$HOME/bin"
+script:
+- Rscript -e 'bookdown::gitbook'
+deploy:
+  provider: s3
+  access_key_id: AKIAIBW6BTQUUTKCF5YA
+  secret_access_key:
+    secure: I2w6SRpo/TrJXJldZBjtbLE4gSzXbPR6xqqnITLJoKqvjFPiqnWdYuum85FSZlqs25Epxsv2KgDan4Oz3c4nOcf1ojkDsQJ7sxLYRLcwMVDdRAXS0feZWex+Ck12o7Qx2qaoKbgV6kxZmw9dJaHS+kKqNA5vuSlsfy9RShVvnftu1n5f/NNzu5rlJ/vB5tFFr0M4yVpDn4q2SVZZsrS8UKxYOLlXv0Qhp1jrDeEHbY42VItrva9gCKMs3BNYV6W6Mesepr4Tlo29L0AUW7VAUDiw/YWwAr2tc0sMIsz//JYdM1xjWLuUSJ3pVzUDEyiLO3P0sfLw8ToRb0lRVgEW6P1NGAtgv9Nx7lgUSXZWiKZkpR66EwdqtgmZ8AjXxLU9zIYYeo5UrWfGfzq5aV5pCKanl8GXHH47ePt0Piye6E3kDHPY5WWVuTLZi7WeeCuemDP7w0wWmsefW8/jCgndstt8NLcUWupYFG17I43wbAuiBFLAAKU1DD78ybJ4FrYL8CgTrPhFCGorKYvx3RKPlFvR5FIxaOB7KIoPaFV35xd7w0Q4HkPCrOCLKaQYwJIRoLzN96u1vJsdIFVZ3Hs030Rmmo/jNG569Vy39dPPBSNU9mWLJlrilP6x8FkKC9BIFNUf21JO7OfOb5nq7x0XwC0BGSO7TmH8KAKUwo0JQ2w=
+  bucket: cookbook.carpentries.org
+  upload-dir: _book
+  acl: public_read
+  on:
+    repo: carpentries/community-cookbook
