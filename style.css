@@ -12,3 +12,10 @@ pre {
 pre code {
   white-space: inherit;
 }
+
+.logo {
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}

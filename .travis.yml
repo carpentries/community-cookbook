@@ -13,7 +13,7 @@ branches:
   only:
   - master
 script:
-- Rscript -e 'bookdown::render_book("index.Rmd")'
+- make all 
 deploy:
   skip_cleanup: true
   provider: s3

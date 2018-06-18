@@ -3,7 +3,8 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">The Carpentries Community Cookbook</a></li>
+        <li><a href="./">The Carpentries Community Cookbook</a><br>
+        <li><a href="https://carpentries.org"><img src="https://carpentries.org/assets/img/TheCarpentries.svg" class="logo"></a></li>
       after: |
         <li><a href="https://github.com/carpentries/community-cookbook" target="blank">Edit on GitHub</a></li>
     download: ["pdf", "epub"]
