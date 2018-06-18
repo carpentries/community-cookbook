@@ -9,7 +9,7 @@ cache:
   directories:
   - "$HOME/bin"
 script:
-- Rscript _render.R bookdown::gitbook 
+- Rscript _render.R "bookdown::gitbook" 
 deploy:
   provider: s3
   access_key_id: AKIAIBW6BTQUUTKCF5YA
