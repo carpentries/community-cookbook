@@ -21,3 +21,4 @@ deploy:
   secret_access_key: $S3_SECRET
   bucket: cookbook.carpentries.org
   local-dir: _book
+  acl: public_read
