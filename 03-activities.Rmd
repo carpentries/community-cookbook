@@ -9,6 +9,8 @@ Overview of Software Carpentry workshops
 
 ### Lessons
 
+Software Carpentry maintains lessons in the Unix Shell, Git, R, Python, SQL, Make and Mercurial. Software Carpentry lessons focus on teaching tools in a discipline agnostic way, in order to help researchers from all disciplines develop skill with the tool. Software Carpentry lessons aren't meant to be exhaustive and comprehensive enumerations of all possible features of a particular too. Instead the lessons seek to strike a balance of reducing cognitive load, while empowering the researcher to have a better understanding of how the tool could be used in their workflow.
+
 
 ## Data Carpentry
 
@@ -43,7 +45,7 @@ They are generally volunteer-run, and aim to build referral networks and communi
 - [UWA HackyHour](https://twitter.com/HackyHourUWA)
 - [JCU HackyHour](https://twitter.com/JCUHackyHour)
 - [Uni of Auckland Hacky Hour](https://twitter.com/uoahackyhour)
-# Carpentries Study Groups 
+# Carpentries Study Groups
 
 ## What are they?
 
@@ -60,8 +62,8 @@ Outline the periodic study group international meetings and how study groups sup
 ## See if there are Study Groups near you
 
 FIXME - link to Study Group website/map
-# Book Clubs 
-# Events 
+# Book Clubs
+# Events
 
 There are various kinds of annual/semi-annual events you can run to give your community a focused opportunity to share and plan more intensely with each other, and to invite new members into the communtiy. Within The Carpentries campus communities, ResBaz (Research Bazaar) is a popular mult-day event to share research software tools and how to use them. These events are as much about training and skills as they are about networking and ideas. There are many types of un-conference and satellite conference that can be exciting to bring to your organization. These include events like OpenCon-local, THATCamp and more. Planning one of these local satellite events can be a great way to bring people together on your campus. Additionally there are several events in the Carpentries community that draw Carpentries instructors. We have an etherpad where we share among the instructor community what confernces we'll be attending. In the cookbook we'll list some marquee events that bring many Carpentries community members together.
 # Research Bazaar (ResBaz)
@@ -71,12 +73,12 @@ as Software and Data Carpentry workshops, along with a range of talks, games, po
 
 ResBaz was first run in Melbourne in 2015. The model quickly became popular, and ResBaz events were run in ten cities worldwide in 2016
 and in 14 locations in 2017. Planning for [ResBaz 2018](https://resbaz.github.io/resbaz2018/) is already underway.
-    
+
 ## ResBaz resources
 
 - [ResBaz blog](https://resbazblog.wordpress.com/author/resbaz/) and [ResBaz on Twitter](https://twitter.com/resbaz) - the blog is the main source of information and links, including a FAQ, while the Twitter feed will list news and announcements
 - [ResBaz Cookbook latest](https://www.gitbook.com/book/heydejan/resbaz-cookbook/details)  and [Older ResBaz cookbook](https://github.com/resbaz/cookbook/wiki)
-- [ResBaz slack channel](https://resbaz-team.slack.com/?redir=%2Fmessages%2Fgeneral) - monthly catch up 
+- [ResBaz slack channel](https://resbaz-team.slack.com/?redir=%2Fmessages%2Fgeneral) - monthly catch up
 
 - [Storify of 2016 ResBaz in Brisbane](https://storify.com/cloudaus/brisbane-research-bazaar)
 - [Images from 2017 ResBaz in Brisbane](https://www.flickr.com/photos/100739735@N06/with/32743902091/) -includes shots of workshops, stalls, sponsors etc
@@ -120,7 +122,7 @@ All progress on above items is reported within the [CarpentryCon repo](https://g
 
 # SatRdays
 
-[SatRdays](https://satrdays.org/) are SQLSaturday-inspired, community-led, one-day, regional and very affordable conferences around the world to 
+[SatRdays](https://satrdays.org/) are SQLSaturday-inspired, community-led, one-day, regional and very affordable conferences around the world to
 support collaboration, networking and innovation within the R community.
 # THATCamp
 
@@ -129,11 +131,11 @@ support collaboration, networking and innovation within the R community.
 THATCamp is an open unconference model for bringing a skills meetup to your university or organization.
 
 More information can be found at: http://thatcamp.org/
-# International Events 
+# International Events
 
 ## Pycon
 
-## SciPy 
+## SciPy
 
 ## SC - the Supercomputing conference
 
