@@ -1,15 +1,19 @@
-language: r
-dist: trusty
-sudo: false
-branches:
-  only:
-  - master
+language: R
 cache:
   packages: true
   directories:
-  - "$HOME/bin"
+  - _book
+dist: trusty
+sudo: false
+addons:
+  apt:
+    packages:
+      - libxml2-dev
+branches:
+  only:
+  - master
 script:
-- Rscript _render.R "bookdown::gitbook" 
+- Rscript -e 'bookdown::render_book("index.Rmd")'
 deploy:
   provider: s3
   access_key_id: AKIAIBW6BTQUUTKCF5YA
@@ -17,6 +21,3 @@ deploy:
     secure: btQ/bLSaLkH83NfVeTX1Rg+41Dc7AIgNFtv18jGuM8wShGm1g8TWPYZxp6Kf0MlFkjNmcYrHmb3292GUJRlkjH/azpzJlvcraVQjiVrDg/0ZboMml64Gl7dPD8pgYUCmbsJxclNEja0zO4gXYB9H0jD11/puvzE4cxo6OY/7/PwZ9ESXsMfRvkJmWy0bvpuSuXUtVb4MjN6j6xNOXP0iBZDU+ram7Hln+/Ri9ZEjSAf5vIrojIoaHYXJJxAbldGsv25rk8rAyCR60Vvvn3aW0uLQX8trm+7LRRZZGBj+FrSJcV+kOFsPo6vDaAu3EJZBGs96OiSHheCy6iBv5/lK2Hpu6Fnk4J3wqWKaliCRM+DsYd4653Ver74I3bJDo9CNOv7fhdgaxqSHJTg4IofkGxw5fq8un2D/VsB4RGWE1yn/3Cio83TJkOOd43c4kf5/SWF9V3alI4WJTXI5j/OvAAV0X9jzzoBjUPBpejHs5MZfDXfJUl7YeQhxlFl6P0ZieQThmJ50fDJg9kEgOJShm+Ir6/xDtYtv35uGeZbJObX32Ilwq4kF0cBXme0BGPB/sLOS05zzYi4LiojUZHGxXiF3xDqaM7DacC+loAQn2zK60XlpqiPTdTcP5d8vN8MvaE//YZrVoIVn+bXXlr6hvF+5/BHa8iLtow7NE2aNRKo=
   bucket: cookbook.carpentries.org
   local-dir: _book
-  acl: public_read
-  on:
-    repo: carpentries/community-cookbook
