@@ -1,3 +1,37 @@
 # Appendix
 
 Extra resources and supporting material
+
+
+# Community Formation Stories
+
+What follows is community formation stories about the successes and challenges of building a local community of instructors.  
+
+## Lex Nederbragt
+
+### The Beginning
+It started with our first Software Carpentry workshop in 2012. Two participants (one of them me) were recruited to become instructors. After organising the occasional workshop, we were very lucky to get the support of the University's Science Library. With them, we have been able to grow the workshop offerings and local instructor/helper community.
+
+### Successes
+We now have 15 certified instructors and several regular helpers. We organise many half-day or one-day workshops teaching a single lesson. This gives enough time to go through _all_ of the material in a calm pace. especially the R and Python workshops are quickly sold out. We have organised Research Bazaar twice, with a great many people holding workshops and many participants. Our participants come not only from the University, also from surrounding hospitals, libraries and other organisations.
+
+### Challenges
+We experience a high no-show rate as our workshops are free of charge. We have yet to find a good way of helping learners after the workshop (continued learning, help-sessions, ...). I think we can do more to make our instructor and helpers feel part of a local community with common interests.
+
+
+## Sarah Stevens
+
+### The Beginning
+In 2014, I held an initial meeting, advertising the group and my ideas for what the group would be. Then I put together a listserv and webpage for people to get information from.  I then started planning meetings based on the interests people mentioned at the first meeting.
+
+### Successes
+Originally we started with a general computational biology for the main group and then a python study group under it.  Since then people also wanted a R study group so we started a group for that too.
+We have formed a pretty large community that is relatively organized now.  New people have taken over running it so I'm confident it will continue after I graduate.
+We have regular attendance of about 15-20 people in Python Study Group and about 10-15 in R Study Group.
+This has also helped to put together collaborations by helping members meet people from other labs.
+
+### Challenges
+Well we've changed our name over the years since the original name wasn't great and it confused a lot of people about what our goals are.  Our new name seems to work better.
+Getting people involved was also a challenge but it helped to delegate who runs the weekly study groups which gets people involved the running of the group which helps keep them participating.  I also kind of wish I'd found people to help me earlier on.  It would be nice to have a larger group of organizers.
+
+[More information](http://sarahlrstevens.info/communitybuild_combee/)
