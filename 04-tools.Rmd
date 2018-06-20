@@ -1,5 +1,26 @@
 discussion# Communications
 
+## Websites
+
+FIXME
+Generating your own website for your local community can be a great way to drum up participation and enthusiasm for your group. Using a tool like GitHub Pages can allow you to quickly and easily create static-content websites which share important information about your community.  There is a great guide for [Getting Started with GitHub Pages](https://pages.github.com/) that can help you get going. In short, GitHub pages is free web hosting that can allow you to share with the world the work of your group and share it with the world. The collaboration model of Git and GitHub using pull-requests also allows you to distribute the load and responsibility of website maintenance and updating across your local group. On top of that, you'll all be working in and enhancing your skills around Git/GitHub collaboration models as you do!
+
+## Git/GitHub
+
+* GitHub Organisation
+* Repo for Meeting Minutes
+FIXME
+
+## Calendar
+
+Google Calendars built into web pages
+FIXME
+
+## Event registration
+
+* university's questionnaire form system for registrations/surveys
+FIXME
+
 ## Mailing Lists
 
 Mailing lists can be a great way to keep a growing community connected to each other. Having a focused charter for each list can be helpful to reign in discussions as well. As lists grow, and draw larger participation it can be important to develop a moderator team that is able to tend to moderator requests and keep the list conversations productive and civil.
@@ -17,7 +38,7 @@ Staying in contact with your growing community can be done with email lists, or 
 * Constant Contact - pricing starts at $20/month
 * TinyLetter - by MailChimp but allows you to send a simple periodic newsletter
 
-## Instant Messaging
+## Instant Messaging/Chat
 
 * [Gitter](https://gitter.im/) - Free and open
 * [RocketChat](https://rocket.chat/) - Free when self-hosted
