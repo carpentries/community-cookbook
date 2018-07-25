@@ -1,5 +1,17 @@
 # Getting started
 
-Maybe you're looking to develop your own data driven research skills, maybe you're looking for a way to support the overwhelming number of researchers coming to you for help. Whatever the case may be, working to intentionally build one or more communities of practice around computational skills can be a very rewarding endeavor. It can also be challenging to reach critical-mass where things feel like they come together and work on their own. Like building any community you have to help people understand the possibilities of the collective. To do this we have various strategies contained throughout this document. There are ways to run events like workshops, un-conferences and bazaars that bring people together and nudge them to talk to each other about tools, workflows, opportunities and challenges.
+Maybe you're looking to develop your own data-driven research skills, or maybe you're looking for a way to support the overwhelming number of researchers looking to you for help. Maybe you're part of a lab or research institute - or even a bunch of students in a discipline - who feel frustrated and held back by what you don't know.
 
-In almost every discipline today, cutting edge research questions require some level of computational skill. From astronomers collectively looking at the gravitational wiggles of thousands of distant stars to digital humanists training document classifiers to "read" with a critical eye, eventually we're all bound to run into technical challenges. How can we support one another and develop rich and inviting communities that are virtuous for all participants. A group of novices with little skill coming together can be deeply frustrating feeling something like the blind leading the blind. At the same time experts at your institution are likely tapped-out and overwhelmed with requests for their time or insights. How can we build communities of practice that are beneficial to both ends of this spectrum and raise up everyone's skills and abilities. 
+Whatever the case may be, working to intentionally build one or more communities of practice around computational skills can be a very rewarding endeavour. 
+
+It can also be challenging to reach critical mass where things feel like they come together and work on their own. As with building any community, you have to help people understand the possibilities that working as a collective can bring. To do this, we have listed various strategies throughout this document. 
+
+There are proven ways to run events such as workshops, un-conferences and knowledge bazaars that bring people together and nudge them to talk to each other about tools, workflows, opportunities, and challenges.
+
+In almost every discipline today, cutting edge research questions require some level of computational skill. From astronomers collectively looking at the gravitational wiggles of thousands of distant stars to digital humanists training document classifiers to "read" with a critical eye, eventually we're all going to run into technical challenges. 
+
+How can we support one another and develop rich and inviting communities that serve all participants? A group of novices with little skill coming together can be deeply frustrating, feeling a little at times like the blind leading the blind. At the same time, experts at your institution can be overwhelmed with requests for their time or insights. 
+
+How can we build communities of practice that are beneficial at both ends of this spectrum and start to raise up everyone's skills and abilities? 
+
+Read on ...
