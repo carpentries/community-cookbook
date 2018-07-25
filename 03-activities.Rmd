@@ -1,38 +1,73 @@
 # Skills Workshops
 
-Short format workshops, over a number of days can be a great way to bring people together to share skills. For workshops to be most impactful it is important to use quality lessons and have prepared instructors. The Carpentries supports and mentors a global community of instructors and lessons they can teach.  
+Short format workshops that run over one or more days can be a great way to bring people together to share skills. For workshops to be most impactful, it is important to use good quality lessons and have them taught by prepared instructors. The Carpentries supports and mentors a global community of instructors and lessons they can teach.  
 
 
 ## Software Carpentry
 
-Overview of Software Carpentry workshops
+Overview of [Software Carpentry](https://software-carpentry.org/) workshops
 
 ### Lessons
 
-Software Carpentry maintains lessons in the Unix Shell, Git, R, Python, SQL, Make and Mercurial. Software Carpentry lessons focus on teaching tools in a discipline agnostic way, in order to help researchers from all disciplines develop skill with the tool. Software Carpentry lessons aren't meant to be exhaustive and comprehensive enumerations of all possible features of a particular too. Instead the lessons seek to strike a balance of reducing cognitive load, while empowering the researcher to have a better understanding of how the tool could be used in their workflow.
+Software Carpentry aims to help people begin to think computationally about the work they do. It does this by introducing the shell for task automation, then by introducing a programming language such as R or Python, and then by bringing in version control systems such as Git to ensure that research work done can be easily retrieved, repeated, or adapted for other uses. Using these methods, learners can lay the foundation for performing open, reproducible research. 
+
+Software Carpentry maintains lessons in the Unix Shell, Git, R, Python, SQL, Make and Mercurial. Software Carpentry lessons focus on teaching tools in a discipline-agnostic way, in order to help researchers from all disciplines develop skill with the tools. Software Carpentry lessons aren't meant to be exhaustive and comprehensive enumerations of all possible features of a particular tool. Instead the lessons seek to strike a balance of reducing cognitive load, while empowering the researcher to have a better understanding of how the tool could be applied in their workflow.
 
 
 ## Data Carpentry
 
-Overview of DC focus areas
+A [Data Carpentry](https://datacarpentry.org/workshops/) workshop teaches the core skills for working with data effectively and reproducibly.
+
+When working with data, it’s often difficult to figure out what skills to learn or how to get started learning them. In Data Carpentry, we identify the fundamental skills needed in a given domain and develop and teach these skills in hands-on, two-day, interactive workshops. Workshops are currently designed for people with little to no prior computational experience and are domain-specific, so that researchers are working with data most relevant to their own work. They follow a narrative structure, working with one dataset through the whole data lifecycle from data and project organization to data analysis and visualization.
 
 ### Lessons
+
+Data Carpentry currently have [curriculum](https://datacarpentry.org/lessons/) in:
+
+- Ecology
+- Genomics
+- Geospatial data
+- Social sciences
 
 ## Library Carpentry
 
-Overview of LC focus areas and lessons
+[Library Carpentry](https://librarycarpentry.org/) aims to help people in library and information roles develop software and data skills.
 
 ### Lessons
 
+Library Carpentry has nine [lessons](https://librarycarpentry.org/#portfolio) in the works, some more mature than others. New lessons are being drafted around FAIR principles and digital preservation.
+
+| Lesson | Scope |
+| :----- | :----- | 
+|Data intro for librarians | An introduction to data structures, regular expressions, and computing terms | 
+| Unix Shell | An introduction to command line interfaces and task automation using the Unix shell | 
+| OpenRefine | An introduction to cleaning up and enhancing a dataset using OpenRefine | 
+| Git Intro for Librarians | An introduction to version control using Git and GitHub for collaboration | 
+| SQL for Librarians| An introduction to relational database management using the SQLite tool | 
+| Webscraping | An introduction to extracting structured data from websites using a range of tools | 
+| Tidy data for librarians | An introduction to good data organisation, which is the foundation of much of our day-to-day work in libraries | 
+| Introduction to Python | An introduction to Python, a general purpose programming language | 
+| Data Intro for Archivists | An introduction to data structures, regular expressions, and computing terms for archivists | 
+
 ## Other Skills Workshops
+
+The [Programming Historian](https://programminghistorian.org) has a number of useful [lessons](https://programminghistorian.org/lessons/) on a range of tools and skills. 
+
+These lessons would be appplicable to anyone who wants to imrpove their digital skills - they have wider relevance beyond the fields of history and the humanities. 
+
 # Help Sessions
 
-There are various types of help sessions that have been created at many of The Carpentries member institutions. The common theme is to develop a regularly scheduled and frequent event where people can come together and support each other with their technical challenges. These are called things like Hacky Hour, PhTea, Code and Pizza, or Office Hours. These kinds of events can be slow to get started, with it taking months to develop a steady cohort of regulars. It is helpful to think about the initial anchoring experts in various areas that would be helpful to have around. Examples include a GIS librarian, technical support staff, and senior graduate students. Mature community help sessions become as useful to the so-called experts as they are for the novice and intermediate researchers. Having them in an informal setting with the ability to order food/beer at your own expense is also popular. In other cases, a budget for pizza and/or snacks is requested to provide extra enticement.
+Help sessions of many kinds have been created within Carpentries member institutions. What is common is that such sesisons be  regularly scheduled and frequent, and provide a neutral space where people can come together to support each other with technical challenges. 
+
+Events of this type include Hacky Hour, PhTea, Code and Pizza, SkillShares, or Office Hours. These kinds of events can be slow to get started, with it sometimes taking weeks or months to develop a steady cohort of regulars. To get started, think about assembling an 'anchoring' group that can offer a range of useful skills. These might be sysadmins, bioinformaticians, a GIS librarian, a person with data mamagement knowledge, HPC or other technical support staff, and graduate students from a range of disciplines. If this seems completely unattainable, start out with small. Hacky Hours have been started by two people and have then seen them grow. The key is to start, and not to get discouraged if people don't flock in for advice at first. Word of mouth will help populate it as time goes by.
+
+Mature community help sessions become as useful to the so-called experts as they are for the novice and intermediate researchers. Having them in an informal setting with the ability to order food/coffee/beer at your own expense is also popular. In other cases, a budget for pizza and/or snacks is requested to provide extra enticement.
+
 ## Hacky Hour
 
 Hacky Hours are informal, regularly scheduled meetups where researchers can bring research IT-related issues for discussion or help.
 
-These might include issues with Python, R, HPC, statistics, Matlab or other software.
+These might include issues with Python, R, HPC, statistics, MatLab or other software.
 
 They are generally volunteer-run, and aim to build referral networks and communities of practice around research software and skills.
 
@@ -45,6 +80,8 @@ They are generally volunteer-run, and aim to build referral networks and communi
 - [UWA HackyHour](https://twitter.com/HackyHourUWA)
 - [JCU HackyHour](https://twitter.com/JCUHackyHour)
 - [Uni of Auckland Hacky Hour](https://twitter.com/uoahackyhour)
+- [QUT Hacky Hour](https://twitter.com/GPHackyHour)
+
 # Carpentries Study Groups
 
 ## What are they?
