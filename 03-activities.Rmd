@@ -99,54 +99,53 @@ Outline the periodic study group international meetings and how study groups sup
 ## See if there are Study Groups near you
 
 FIXME - link to Study Group website/map
+
 # Book Clubs
 # Events
 
 There are various kinds of annual/semi-annual events you can run to give your community a focused opportunity to share and plan more intensely with each other, and to invite new members into the community. Within The Carpentries campus communities, ResBaz (Research Bazaar) is a popular multi-day event to share research software tools and how to use them. These events are as much about training and skills as they are about networking and ideas. There are many types of un-conference and satellite conference that can be exciting to bring to your organization. These include events like OpenCon-local, THATCamp and more. Planning one of these local satellite events can be a great way to bring people together on your campus. Additionally, there are several events in the Carpentries community that draw Carpentries instructors. We have an etherpad where we share among the instructor community what conferences we'll be attending. In the cookbook we'll list some marquee events that bring many Carpentries community members together.
+
 # Research Bazaar (ResBaz)
 
 ResBaz is a 3-day research festival to teach skills and help people build local communities. It generally encompasses workshops such
 as Software and Data Carpentry workshops, along with a range of talks, games, poster and networking sessions such as the Knowledge Bazaar.
 
 ResBaz was first run in Melbourne in 2015. The model quickly became popular, and ResBaz events were run in ten cities worldwide in 2016
-and in 14 locations in 2017. Planning for [ResBaz 2018](https://resbaz.github.io/resbaz2018/) is already underway.
+and in 14 locations in 2017. [ResBaz 2018](https://resbaz.github.io/resbaz2018/) events have been run in nine cities this year.
 
 ## ResBaz resources
 
 - [ResBaz blog](https://resbazblog.wordpress.com/author/resbaz/) and [ResBaz on Twitter](https://twitter.com/resbaz) - the blog is the main source of information and links, including a FAQ, while the Twitter feed will list news and announcements
 - [ResBaz Cookbook latest](https://www.gitbook.com/book/heydejan/resbaz-cookbook/details)  and [Older ResBaz cookbook](https://github.com/resbaz/cookbook/wiki)
 - [ResBaz slack channel](https://resbaz-team.slack.com/?redir=%2Fmessages%2Fgeneral) - monthly catch up
-
-- [Storify of 2016 ResBaz in Brisbane](https://storify.com/cloudaus/brisbane-research-bazaar)
 - [Images from 2017 ResBaz in Brisbane](https://www.flickr.com/photos/100739735@N06/with/32743902091/) -includes shots of workshops, stalls, sponsors etc
 - [ResBaz Arizona](https://twitter.com/resbazaz) - AZ also run HackyHour and PhTea sessions
+
 # CarpentryCon
 
 CarpentryCon is the key community building and networking event in the Carpentries' annual calendar.
 
-The inaugural 2018 CarpentryCon will be held from 30 May - 1 June at University College, Dublin.
+The inaugural 2018 [CarpentryCon](http://www.carpentrycon.org/) was held from 30 May - 1 June at University College, Dublin.
 
-The theme of CarpentryCon 2018 is *Building Locally, Connecting Globally*.
+The theme of CarpentryCon 2018 was *Building Locally, Connecting Globally*.
+
+- [Summary of event](https://carpentries.org/blog/2018/06/carpentry-con-report/) by Belinda Weaver.
+- Thoughts on community after CarpentryCon](https://carpentries.org/blog/2018/06/value-of-community/) by Toby Hodges.
+- [African Task Force response to CarpentryCon](https://carpentries.org/blog/2018/07/actf-carpcon-post/)
+- [Carpentries in Latin America response to CarpentryCon](https://carpentries.org/blog/2018/07/carpentrycon-la/)
+- [CarpentryCon photo stream](https://www.flickr.com/photos/134305289@N03/sets/72157667641880727)by Bérénice Batut
+- [Tweets from CarpentryCon](https://carpentries.org/2018/06/carpentrycon-tweets) - a summary provided by Francois Michonneau
 
 ## Purpose and Scope of CarpentryCon
 
-- **Community Building:** bring together members of the Carpentry community, including instructors, partners, advocates, and staff, together with people sharing similar interests from around the globe. We will have a “come and learn” format that is different from most conferences.
-- **Sharing Knowledge:** The event will include sessions on teaching methods, curriculum development, community organization, and leadership skills. (As noted in the preamble, the final list of sessions will be determined by the program committee in consultation with the community, balancing “who wants to learn what?” with “who’s willing to teach what?”.)
-- **Networking:** Opportunities will be provided for participants to come together informally to share stories about challenges and successes.
-- **Contributed talks/posters:** There will be at least one session where attendees can share how they have incorporated Carpentry techniques into their own research and teaching, and/or how they have grown their local Carpentry community. This is crucial as presenting will be a requirement if attendees are seeking travel support from their home institution.
+- **Community Building:** bring together members of the Carpentry community, including instructors, partners, advocates, and staff, together with people sharing similar interests from around the globe. We had a “come and learn” format that is different from most conferences.
+- **Sharing Knowledge:** The event included sessions on teaching methods, curriculum development, community organization, and leadership skills.
+- **Networking:** Opportunities were provided for participants to come together informally to share stories about challenges and successes.
+- **Contributed talks/posters:** There was a poster session where attendees shared how they have incorporated Carpentry techniques into their own research and teaching, and/or how they have grown their local Carpentry community. This was crucial as presenting was a requirement for attendees who sought travel support from their home institution.
 
 ## The CarpentryCon Task Force
 
-The [CarpentryCon Task Force](https://github.com/swcarpentry/board/tree/master/TaskForces/2018-CarpentryCon) has been created within the carpentries to help organize and coordinate the CarpentryCon 2018.
-
-## What members of the task force do
-
-Right now, we are working on
-
-- drafting the CarpentryCon program
-- recruiting local and global participants to help organize and promote the event
-- getting feedback and estimating the attendance
-- seeking sponsorship
+The [CarpentryCon Task Force](https://github.com/swcarpentry/board/tree/master/TaskForces/2018-CarpentryCon) was created within the Carpentries to help organize and coordinate CarpentryCon events.
 
 All progress on above items is reported within the [CarpentryCon repo](https://github.com/carpentries/carpentrycon).
 
@@ -156,11 +155,11 @@ All progress on above items is reported within the [CarpentryCon repo](https://g
 [minutes](https://github.com/carpentries/carpentrycon/tree/master/Minutes)
 
 
-
 # SatRdays
 
-[SatRdays](https://satrdays.org/) are SQLSaturday-inspired, community-led, one-day, regional and very affordable conferences around the world to
+[SatRdays](https://satrdays.org/) are [SQLSaturday](https://sqlsaturday.com/default.aspx)-inspired, community-led, one-day, regional and very affordable conferences around the world to
 support collaboration, networking and innovation within the R community.
+
 # THATCamp
 
 > The Humanities and Technology Camp, is an open, inexpensive meeting where humanists and technologists of all skill levels learn and build together in sessions proposed on the spot
@@ -168,6 +167,7 @@ support collaboration, networking and innovation within the R community.
 THATCamp is an open unconference model for bringing a skills meetup to your university or organization.
 
 More information can be found at: http://thatcamp.org/
+
 # International Events
 
 ## Pycon
@@ -181,4 +181,4 @@ More information can be found at: http://thatcamp.org/
 
 # Vendor Training
 
-If you have researchers that are using a particular vendor tool, sensor or apparatus, it is often possible to bring that vendor in for local on-site training. Depending on the vendor this can be a costly per-seat workshop, or it can be done for free. It is also possible to work to build a relationship with the vendor so they're able to see how their training might lead to future sales or a continued use of their products. In this section we'll share some thoughts and ideas on vendor supplied trainings that can be useful to build into your local community. Vendors are working to stay in business, and your ability as a researcher to use their complex tools and systems is an important part of how you're able to be capable. By working together to seek high-quality and relevant training from the key vendors supporting academic research, we can work together to make these trainings impactful and useful for our local communities.
+If you have researchers who use a particular vendor tool, sensor or apparatus, it is often possible to bring that vendor in for local on-site training. Depending on the vendor, this can be a costly per-seat workshop, or it can be done for free. It is also possible to work to build a relationship with the vendor so that theyy are able to see how their training might lead to future sales or to a continued use of their products. In this section, we'll share some thoughts and ideas on vendor supplied trainings that can be useful to build into your local community. Vendors are working to stay in business, and your ability as a researcher to use their complex tools and systems is an important part of how you're able to be research-capable. By working together to seek high-quality and relevant training from the key vendors supporting academic research, we can work together to make these trainings impactful and useful for our local communities.
