@@ -2,6 +2,10 @@
 
 There are many ways to build long-term support for your community of practice into the social fabric of your institution. When the story gets around your campus or organization that there is a community that can help with computational skills, you may be asked how you can support more people. To do so may present an opportunity to translate your community from an informal collection of colleagues into a more formalized support structure at your organization. This chapter lays out stories and ideas about how to approach, or even create various support structures within your organization that can continue to support these efforts.
 
+### Collecting evidence
+
+To win funding support, evidence of efficacy is generally required. For every Hacky Hour attendee, the [UQ Hacky Hour team](https://hackyhourstluc.wordpress.com/) note the name, school or institute, problem to be solved, and whether this was an attendee's first visit or if it was a repeat visit. (People often come week after week until they reach a final resolution of a problem.) Details of helpers are noted as well. This information is then reorded in a spreadhsheet so that the scope of advice sought and the help provided can easily be demonstrated as evidence that a need for this kind of advice and support exists. The growing numbers demonstrate that the service will soon be overwhelmed by the demand, and that more formal support is required. 
+
 
 ## Schools/Deans
 
@@ -58,11 +62,13 @@ You can! The simplest way to do that is to charge a fee to attendees to cver the
 charging has several benefits:
 
 - people who register for a fee are more likely to attend and stay for the whole workshop
-- fees may allow you to provide catering which is always popular and helps with retention
+- fees may allow you to provide catering which is always popular and helps with keeping people at the workshop
 - registration fees allow you to cover any costs incurred, such as room hire, instructor travel, the
 purchase of workshop necessities such as sticky notes,
 whiteboard markers, extension cables and power boards (and possibly wifi/wifi boosters)
-- what money is not spent can be saved to help fund later workshops
+- any money not spent can be saved to help fund later workshops
 
 If you can find a suitable room on campus that can seat 20 or more people at tables, that has good wifi, and is accessible, then
 you can run your workshop for little to no money at all.
+
+This [post from the Software Carpentry blog](https://software-carpentry.org/blog/2018/04/workshops-limited-budget.html) lists a few strategies for running workshops with limited or no funding.
