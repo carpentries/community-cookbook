@@ -1,9 +1,8 @@
-discussion# Communications
+# Communities need useful tools to help them organise and connect. We list a few here that might be of use.
 
 ## Websites
 
-FIXME
-Generating your own website for your local community can be a great way to drum up participation and enthusiasm for your group. Using a tool like GitHub Pages can allow you to quickly and easily create static-content websites which share important information about your community.  There is a great guide for [Getting Started with GitHub Pages](https://pages.github.com/) that can help you get going. In short, GitHub pages is free web hosting that can allow you to share with the world the work of your group and share it with the world. The collaboration model of Git and GitHub using pull-requests also allows you to distribute the load and responsibility of website maintenance and updating across your local group. On top of that, you'll all be working in and enhancing your skills around Git/GitHub collaboration models as you do!
+Generating your own website for your local community can be a great way to drum up participation and enthusiasm for your group, and to help with organisation of meetings. A free tool like GitHub Pages can allow you to quickly and easily create static-content websites which share important information about your community. There is a great guide for [Getting Started with GitHub Pages](https://pages.github.com/) that can help you get going. In short, GitHub pages is free web hosting that can allow you to share with the world the work of your group and share it with the world. The collaboration model of Git and GitHub using pull-requests also allows you to distribute the load and responsibility of website maintenance and updating across your local group. On top of that, you'll all be working in and enhancing your skills around Git/GitHub collaboration models as you do!
 
 ## Git/GitHub
 
@@ -18,8 +17,8 @@ FIXME
 
 ## Event registration
 
+* [Eventbrite](https://eventbrite.com) allows you to organise both free and paid events - they handle logistics such as ticketing, and waitlists. They take a small fee for paid events but there is no charge for use of the free event service.
 * university's questionnaire form system for registrations/surveys
-FIXME
 
 ## Mailing Lists
 
@@ -46,13 +45,13 @@ Staying in contact with your growing community can be done with email lists, or 
 
 ## Shared Documents
 
-Shared documents can really enable collaborative and participatory engagement opportunities across your community. Using video and audio conferencing tools in conjunction with a shared document is very effective. A log of discussions can be recorded for the benefit of both the participants and those who may not have been able to attend. Group involvement such as voting on topics and ideas, or response to question prompts can be pre-loaded in the shared document. Additionally shared documents can be used as wiki-like locations to record important information. In The Carpentries community has a [pad of pads](http://pad.software-carpentry.org/pad-of-pads) showing many examples of how shared documents can be leveraged. They're used for periodic meetings, sign-ups to discussion sessions, sharing conference attendence and more. These create a powerful shared purpose and encourage engagement in what can otherwise be unengaging video/audio calls.
+Shared documents can really enable collaborative and participatory engagement opportunities across your community. Using video and audio conferencing tools in conjunction with a shared document is very effective. A log of discussions can be recorded for the benefit of both the participants and those who may not have been able to attend. Group involvement such as voting on topics and ideas, or response to question prompts can be pre-loaded in the shared document. Additionally shared documents can be used as wiki-like locations to record important information. In The Carpentries community has a [pad of pads](http://pad.carpentries.org/pad-of-pads) showing many examples of how shared documents can be leveraged. They're used for periodic meetings, sign-ups to discussion sessions, sharing conference attendence and more. These create a powerful shared purpose and encourage engagement in what can otherwise be unengaging video/audio calls.
 
 * Google docs - Great shared document platform, somewhat required users to have a Google account.
 * Etherpads - Open source, requires hosting on your own infrastructure.
-* HackMD - An alternative to Etherpads that is growing in popularity.
+* [HackMD](https://hackmd.io/) - An alternative to Etherpads that is growing in popularity. Allows collaborative notetaking with Markdown.
 
 ## Video Conferencing
-* Google Hangouts - Free
+* [Google Hangouts](https://hangouts.google.com/) - Free
 * Zoom - Paid
-* [Jitsi](https://jitsi.org) - Free
+* [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Free
