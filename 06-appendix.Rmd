@@ -35,3 +35,19 @@ Well we've changed our name over the years since the original name wasn't great 
 Getting people involved was also a challenge but it helped to delegate who runs the weekly study groups which gets people involved the running of the group which helps keep them participating.  I also kind of wish I'd found people to help me earlier on.  It would be nice to have a larger group of organizers.
 
 [More information](http://sarahlrstevens.info/communitybuild_combee/)
+
+## Belinda Weaver
+
+### The Beginning
+I have been involved with The Carpentries since 2014. At that stage, there were no instructors in Brisbane, Australia, where I live. To organise my first workshop, I had to bring in instructors from outside. Our first workshop was over-subscribed, and some of the attendees there went on to train as instructors themselves. Now we have a pool of around 25 instructors, and we run several workshops a year. 
+
+### Successes
+Five people from Brisbane were able to train as instructors at the first Australian Research Bazaar (ResBaz) held in Melbourne in 2015. (ResBaz is a three-day, skill- and community building event.) Those five helped me get Software Carpentry established in Brisbane, and three of that original five are still active in the Carpentries. I was able to secure an open instructor training for Brisbane in 2016. Twenty new instructors were trained there and 18 of that cohort completed their certification and went on to either teach or be supportive members of the community. Having trained as an instructor myself in 2015, I taught more than a dozen workshops in 2016, a big jump up from three in 2015.
+
+We have a Brisbane tradition of running Research Bazaar. These events always feature Software Carpentry workshops, so the two types of event cross-promote each other. Conference linkages have also been important. Software Carpentry workshops are always run as a tie-in to the annual UQ Winter School in Mathematical and Computational Biology, and a number of Software Carpentry workshops have been tie-ins to local conferences, for example, in climate science.  
+
+### Challenges
+Because of the demand for teaching spaces, we have never had the luxury of good facilities for our workshops. We have had to make do with rooms at residential colleges, which cost a fee to hire.
+
+I started teaching workshops simply by deciding to have a go. I knew I wouldn’t get funding or support until I had proven the usefulness of what I was doing, so I settled on a date, booked a room, and rustled up some instructors. That is all you really need to get started - a date. That concentrates the mind and … away you go.
+
