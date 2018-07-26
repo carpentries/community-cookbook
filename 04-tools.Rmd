@@ -25,9 +25,9 @@ FIXME
 Mailing lists can be a great way to keep a growing community connected to each other. Having a focused charter for each list can be helpful to reign in discussions as well. As lists grow, and draw larger participation it can be important to develop a moderator team that is able to tend to moderator requests and keep the list conversations productive and civil.
 
 * **University lists** - Many universities and organizations run a campus-wide listserver where university members can create lists for open subscription.
-* **Mailman** - The open source tool [Mailman](http://www.list.org/) can be installed on a server and be used to run your own list infrastructure. This is recommended only if you have some system administration experience as it is a fairly advanced undertaking.
+* **Mailman** - The open source tool [Mailman](http://www.list.org/) can be installed on a server and be used to run your own list infrastructure. This is recommended only if you have some system administration experience as it is a fairly advanced undertaking. Given that it is open source though, this option can trade recurring costs for control and flexibility.
 * **TopicBox** - TopicBox is a premium/paid mailing list platform which delivers a high-quality user web interface. To see TopicBox in action, check out [The Carpentries Mailing Lists](https://lists.carpentries.org)
-* **Google Groups** - Google groups are a free option which also allows for a publicly available archive of the messages to the group.
+* **Google Groups** - Google groups are a free option which also allows for a publicly available archive of the messages to the group. There is however no easy way to migrate your group history elsewhere from Google. If the preservation of your history of conversations matters to your community, Google Groups are probably not a good fit.
 
 ## Newsletters
 
@@ -49,6 +49,7 @@ Shared documents can really enable collaborative and participatory engagement op
 
 * Google docs - Great shared document platform, somewhat required users to have a Google account.
 * Etherpads - Open source, requires hosting on your own infrastructure.
+* Dropbox Paper - If there is a culture of sharing DropBox folders at your institution and you know your collaborators have Dropbox accounts, Dropbox Paper is a compelling shared document offering.
 * [HackMD](https://hackmd.io/) - An alternative to Etherpads that is growing in popularity. Allows collaborative notetaking with Markdown.
 
 ## Video Conferencing
