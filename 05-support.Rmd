@@ -9,14 +9,25 @@ To win funding support, evidence of efficacy is generally required. For every Ha
 
 ## Schools/Deans
 
+If you're in a university environment, it can be useful to look around for various incentive grant programs at the dean or school level. These programs can come under different names, but they often support innovative ideas and initiatives that can become the seeds for more substantial change. These can be useful for running workshops, helping to coordinate a local community of instructors, or other activiites requiring resources. It is good to think of these funds as catalyzing funds which can be a springboard to a more sustainable program for supporting your initiative locally. 
+
+Department chairs, deans, and associate deans all walk the halls trying to hear what the challenges and opportunities are among the researchers at their institution. With the growth of data driven research and digital research skills, training is a frequent topic of conversation among research faculty and their administrative leadership. Finding ways in to this kind of conversation and deomonstrating a light-weight low-cost culture of peer-to-peer teaching that can be built into the fabric of the intitution is a win-win-win for many of these leaders. Each instituion and organisation is different, but finding ways that you can tie-in to conversations already taking place and bring forward answers to persistent and expensive problems is a great way to get traction on your campus. 
+
 ## Library
+
+Academic and research libraries have a long track-record of delivering skills workshops to their communities. With a consistent vision for peer-to-peer teaching, libraries can be a key ally to greater impact. Libraries sit at the intellectual crossorads of most research institutions, and librarians are service orientated in their outlook. They appreciate models which can empower researchers and help connect the relevence of the library and its staff into the intitutional and research fabric. Whether it is through Library Carpentry (to upskill library staff) or Data/Software Carpentry (to upskill researchers), many reasearch libraries are well aligned with this peer teaching and capacity building model of The Carpentries. Talking to a Data Management librarian, or subject librarians in key areas of funded research programs at your instituion can be a very fruitful discussion which can connect you to other conversations and build long-term support and good will for your efforts. 
 
 ## Research IT
 
+Research IT organisations invest large amounts of money into hardware platforms and the people who support them. They're seen in some disciplines as key partners in any research activity or inititaive. At the same time many Research IT organisations have been less than welcoming in how they invite new research areas onto existing infrastruture and systems. Much Research IT infrastructure is complicated and takes intentional consideration to understand before a particular research objective can be codifed into code which runs on the systems. Workshops like The Carpentries can act as a useful bridge to these organisations as they're being asked by administrators and funders to serve a more diverse population which represents all of the diversity of the insitution they operate within. By serving as a tried-and-trusted community of practice with well respected lessons, it is possible to get support from your Research IT organisation to bring more workshops to your campus. Mapping these workshops to the workshops your Research IT team already teach can help you to tie-in your work to broaden participation. 
+
 ## Professional Societies
+
+Many professional societies see as part of their mandate the need to act as a light-house or beacon to their community around the skills necessary to do the work in that discipline in the coming era. Many disciplines today look fundamentally different in terms of research practices than they did even ten years ago. From the sequence biology data explosion to collaborative astronomy platforms and experiments, the nature of how work is done in disciplines is ever changing. By tying your work into professional societies you care about, you can help become a leader in identifying skills area needing support and bringing new interventions (workshops, summer institutes, conferences) into existence that will support your community. Carpentries workshops and lesson development can be key areas to build-in to professional societies to ensure long-term support from the international bodies supporting your discipline. 
 
 ## Innovation/Maker Spaces
 
+Many campuses have been building maker spaces and innovation spaces to encourage tinkering, entreprenuership and innovation. These spaces, in addition to being fun places to host workshops, can be allies in your work to spread and democratize digital research skills on your campus. Finding ways that your workshops can tie-in to inititaives and activites at these spaces, can help to broaden support for your activities beyond just research applications. Digital skills lie at the heart of digital innovation spaces. 
 
 ## Outside Supporters
 
