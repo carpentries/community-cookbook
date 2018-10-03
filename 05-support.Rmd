@@ -72,3 +72,52 @@ If you can find a suitable room on campus that can seat 20 or more people at tab
 you can run your workshop for little to no money at all.
 
 This [post from the Software Carpentry blog](https://software-carpentry.org/blog/2018/04/workshops-limited-budget.html) lists a few strategies for running workshops with limited or no funding.
+
+# How to Scale up The Carpentries
+
+In October of 2018, community member Lex Nederbragt brought forward a discussion happening at his home institution (University of Oslo) about how to scale up Carpentry teaching to have more impact on campus. Lex posed a series of questions to the community and a rich discussion was had, summarized below.
+
+[Lex Nederbragt wrote: 
+](https://carpentries.topicbox.com/groups/discuss/Tad9e416c2ec4742e/how-can-we-scale-up-carpentries-training-at-universities)
+> By making Carpentry workshops a core offering across departments, with students able to earn credit from them, my fear is that the spirit of the volunteer effort gets lost or may become reduced. Making our workshops into required courses may change (reduce) the motivation for learners and instructors.
+> So here are my questions to you:
+>*  Have other universities made the same move, or are they planning this, and if so, how are they organizing this effort?
+>* How to keep learners motivated if they feel they are required to take a Carpentries workshops?
+>* How to keep the quality of instruction, and instructor motivation, high, if workshops become organized like regular courses?
+
+
+## Discussion overview 
+
+[Giacomo Peru](https://carpentries.topicbox.com/groups/discuss/Tad9e416c2ec4742e-M7129de063f2d223de11c9f15/how-can-we-scale-up-carpentries-training-at-universities) points out that to be succesful The Carpentries need not run afoul of existing strucutures. They need to find ways to be harmoniously in existence within the ecosystem in which they operate. 
+
+
+[Stephanie Labou](https://carpentries.topicbox.com/groups/discuss/Tad9e416c2ec4742e-M2ebe0f78acab0ce249fc18f2/how-can-we-scale-up-carpentries-training-at-universities) writes that the Unviersity of California Sand Diego is considering workshops for inclusion in a co-curricular record (CCR), a detailed enumeration of the professional development activities someone has undertaken outside of formal curricula without associated red-tape around assigning credit.
+
+
+[Peter Hoyt](https://carpentries.topicbox.com/groups/discuss/Tad9e416c2ec4742e-Mf583f6c2e939923bcb68b4b3/how-can-we-scale-up-carpentries-training-at-universities) acknowledges that Universities would like to be in the value stream of skills training and thus charge for workshops and the learning taking place at them. Peter suggests, moving to a flipped model with more teaching done online.
+
+
+[April Wright](https://carpentries.topicbox.com/groups/discuss/Tad9e416c2ec4742e-M0223a648d868c59f6cfeea05/how-can-we-scale-up-carpentries-training-at-universities) suggest having different sections and thus expecations as part of the same course. Combining lecture and hands on activities, but expecting more of those who take the course and expect credit. April also talks about instructor motivation and some ways to keep the instructor expeirence fresh for instructors.
+
+[Simon Waldman](https://carpentries.topicbox.com/groups/discuss/Tad9e416c2ec4742e-M1f39cde2b163166912413882/how-can-we-scale-up-carpentries-training-at-universities) notes that as workshops scale up, that it might be necessary to make workshop instruction part of people's paid jobs. 
+
+[Sarah Brown](https://carpentries.topicbox.com/groups/discuss/Tad9e416c2ec4742e-Ma36b00d5ab62bada8cc4d068/how-can-we-scale-up-carpentries-training-at-universities) mentioned how Mathworks (makers of MATLAB) would fund a TA position for an expert in MATLAB in courses requiring MATLAB.
+
+[Hao Ye](https://carpentries.topicbox.com/groups/discuss/Tad9e416c2ec4742e-M7046a25f5d342a2837f478bc/how-can-we-scale-up-carpentries-training-at-universities) points out that much of relevant R and Python training is taught by adjuncts and full-time faculty seldom teach these kinds of workshops. To value these skills, Hao suggests that faculty teach these skills more. 
+
+[David Bapst](https://carpentries.topicbox.com/groups/discuss/Tad9e416c2ec4742e-M7c543979d513a32bf16fe69e/how-can-we-scale-up-carpentries-training-at-universities) points out that short-form workshops and long-form semester type courses feed different niches and there is a place for both of them in the institution. David warns against thinking of one or the other, and thinking about ways both structures can thrive and feed into each other.
+
+[Sebastian Schmeier](https://carpentries.topicbox.com/groups/discuss/Tad9e416c2ec4742e-M55f7c513037d656998cda099/how-can-we-scale-up-carpentries-training-at-universities) talks about how the support structures inside semester courses are sometimes not as condicive to using Carpentry teaching practices. Sebastian addressed this by spreading the load and asking more senior students to come in 1-2 times per semester to help out. This worked, but the culture at Massey is such that this could only be supported for so long. 
+
+## Scaling Up Summary and Considerations
+
+It is clear from the communnity feedback that there is a place for short-form workshops and short-form workshops afford certain leeways and teaching practices that aren't neceessarily able to be duplicated in semester courses. It is also clear that attendence to these workshops as a demonstration of a researcher's continuing education and professional development are seen as important. As you seek to navigate your own institutions or network of instututions, this thread provides a rich trove of areas to consider as you bring forth a program that works well for your community. 
+
+* Short form [workshops are different](http://carpentries.org/workshops) in content and pedagogy than most semester courses.
+* 2-days or less is an important length of time to both be impactful, but not overwhelming
+* Reflecting Carpentry teaching practices into semester courses is a good thing, and is a sign of maturity in your community.
+* Having instructors share common teaching materials (our community lessons) is an important distinction of workshop teaching.
+* Finding ways for learners and instructors to receive credit for their participation in workshops is important.
+* Searching for and finding a niche for Carpentry workshops that is productive and helpful to your community needs to be done in a considered and careful manner. 
+
+
