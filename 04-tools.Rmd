@@ -1,4 +1,4 @@
-# Communities need useful tools to help them organise and connect. We list a few here that might be of use.
+# Tools to Support your Community
 
 ## Websites
 
@@ -34,6 +34,7 @@ Mailing lists can be a great way to keep a growing community connected to each o
 Staying in contact with your growing community can be done with email lists, or sometimes it is useful to have a broadcast announcement or newsletter list. This can be done manually by handling a list of email addresses on your own, but there are mailing list services that make it really easy and free for small lists. As your community grows you can segment your list into particular interest areas and engage with community members based on their expressed interest areas. This can make appeals for participation or volunteering very effective, as you're only contacting those who have already expressed interest in that area of participation/contribution.
 
 * MailChimp - free and powerful for small groups
+* [Mautic](https://www.mautic.org/) - Open source email marketing platform
 * Constant Contact - pricing starts at $20/month
 * TinyLetter - by MailChimp but allows you to send a simple periodic newsletter
 
