@@ -9,9 +9,24 @@ Overview of [Software Carpentry](https://software-carpentry.org/) workshops
 
 ### Lessons
 
-Software Carpentry aims to help people begin to think computationally about the work they do. It does this by introducing the shell for task automation, then by introducing a programming language such as R or Python, and then by bringing in version control systems such as Git to ensure that research work done can be easily retrieved, repeated, or adapted for other uses. Using these methods, learners can lay the foundation for performing open, reproducible research. 
+Software Carpentry aims to help people begin to think computationally about the work they do. It does this by introducing the shell for task automation, then by introducing a programming language such as R or Python, and then by bringing in version control systems such as Git to ensure that research work done can be easily retrieved, repeated, or adapted for other uses. Using these methods, learners can lay the foundation for performing open, reproducible research.
 
 Software Carpentry maintains lessons in the Unix Shell, Git, R, Python, SQL, Make and Mercurial. Software Carpentry lessons focus on teaching tools in a discipline-agnostic way, in order to help researchers from all disciplines develop skill with the tools. Software Carpentry lessons aren't meant to be exhaustive and comprehensive enumerations of all possible features of a particular tool. Instead the lessons seek to strike a balance of reducing cognitive load, while empowering the researcher to have a better understanding of how the tool could be applied in their workflow.
+
+Visit the [Software Carpentry Lessons website](https://software-carpentry.org/lessons/) to see the most up to date listing of our lesson
+
+#### Command Line
+
+Command Line Interfaces or (CLIs) are a time-tested and efficient way to direct and control a computer. Software Carpentries' flagship UNIX Shell lesson is the most taught lesson in Software Carpentry and helps bring novice learners toward an appreciation of their benefit. We teach a very small number of tools, but work through live coding and challenges we break down and demystify the dark art of constructing command line incantations. At the end of this module, learners have a better sense of using the shell environment to glue together programs and code from various languages. They also learn how to write simple scripts which are generalized and abstracted to run over different kinds of input such as piped text or directories of files.
+
+#### Version Control
+
+The Software Carpentry version control lessons help to motivate version control in a research context. They focus on the mechanics of how the version control tool works, and then how to use the tool in an online and then collaborative context. In this way we build up a mental model for the power of version control and demonstrate through challenges and activities ways the learner can leverage version control in their own research workflows.
+
+
+#### Programming
+
+The programming lessons in Software Carpentry focus on a particular scientific programming language, R, Python or MATLAB and help learners feel more comfortable in that language while gaining exposure to important software development practices. The Software Carpentry approach is one of empowering learners, so rather than teaching an exhaustive set of data types, the lessons focus on practical examples. Learners then learn about new data types and language constructs along the way, preventing data types being taught in the abstract.
 
 
 ## Data Carpentry
@@ -38,26 +53,26 @@ Data Carpentry currently have [curriculum](https://datacarpentry.org/lessons/) i
 Library Carpentry has nine [lessons](https://librarycarpentry.org/#portfolio) in the works, some more mature than others. New lessons are being drafted around FAIR principles and digital preservation.
 
 | Lesson | Scope |
-| :----- | :----- | 
-|Data intro for librarians | An introduction to data structures, regular expressions, and computing terms | 
-| Unix Shell | An introduction to command line interfaces and task automation using the Unix shell | 
-| OpenRefine | An introduction to cleaning up and enhancing a dataset using OpenRefine | 
-| Git Intro for Librarians | An introduction to version control using Git and GitHub for collaboration | 
-| SQL for Librarians| An introduction to relational database management using the SQLite tool | 
-| Webscraping | An introduction to extracting structured data from websites using a range of tools | 
-| Tidy data for librarians | An introduction to good data organisation, which is the foundation of much of our day-to-day work in libraries | 
-| Introduction to Python | An introduction to Python, a general purpose programming language | 
-| Data Intro for Archivists | An introduction to data structures, regular expressions, and computing terms for archivists | 
+| :----- | :----- |
+|Data intro for librarians | An introduction to data structures, regular expressions, and computing terms |
+| Unix Shell | An introduction to command line interfaces and task automation using the Unix shell |
+| OpenRefine | An introduction to cleaning up and enhancing a dataset using OpenRefine |
+| Git Intro for Librarians | An introduction to version control using Git and GitHub for collaboration |
+| SQL for Librarians| An introduction to relational database management using the SQLite tool |
+| Webscraping | An introduction to extracting structured data from websites using a range of tools |
+| Tidy data for librarians | An introduction to good data organisation, which is the foundation of much of our day-to-day work in libraries |
+| Introduction to Python | An introduction to Python, a general purpose programming language |
+| Data Intro for Archivists | An introduction to data structures, regular expressions, and computing terms for archivists |
 
 ## Other Skills Workshops
 
-The [Programming Historian](https://programminghistorian.org) has a number of useful [lessons](https://programminghistorian.org/lessons/) on a range of tools and skills. 
+The [Programming Historian](https://programminghistorian.org) has a number of useful [lessons](https://programminghistorian.org/lessons/) on a range of tools and skills.
 
-These lessons would be appplicable to anyone who wants to imrpove their digital skills - they have wider relevance beyond the fields of history and the humanities. 
+These lessons would be appplicable to anyone who wants to imrpove their digital skills - they have wider relevance beyond the fields of history and the humanities.
 
 # Help Sessions
 
-Help sessions of many kinds have been created within Carpentries member institutions. What is common is that such sessions be  regularly scheduled and frequent, and provide a neutral space where people can come together to support each other with technical challenges. 
+Help sessions of many kinds have been created within Carpentries member institutions. What is common is that such sessions be  regularly scheduled and frequent, and provide a neutral space where people can come together to support each other with technical challenges.
 
 Events of this type include Hacky Hour, PhTea, Code and Pizza, SkillShares, or Office Hours. These kinds of events can be slow to get started, with it sometimes taking weeks or months to develop a steady cohort of regulars. To get started, think about assembling an 'anchoring' group that can offer a range of useful skills. These might be sysadmins, bioinformaticians, a GIS librarian, a person with data management knowledge, HPC or other technical support staff, and graduate students from a range of disciplines. If this seems completely unattainable, start out with small. Hacky Hours have been started by two people and have then seen them grow. The key is to start, and not to get discouraged if people don't flock in for advice at first. Word of mouth will help populate it as time goes by.
 
@@ -86,7 +101,7 @@ They are generally volunteer-run, and aim to build referral networks and communi
 
 ## What are they?
 
-Describe what study groups are.
+Study groups are an activity you can bring to your local campus in order to build a local community that focuses on learning new skills together. Study groups range from discipline specific to tool specific (a particular programming language) to open and wide ranging. Overall the idea of a study group is to collectively set some objectives and learning goals and work together to accomplish them as a team. This takes a motivated group and it can help to have a few intermediate to advanced practitioners involved to help it get going faster.
 
 ## How to start one?
 
@@ -164,7 +179,7 @@ support collaboration, networking and innovation within the R community.
 
 > The Humanities and Technology Camp, is an open, inexpensive meeting where humanists and technologists of all skill levels learn and build together in sessions proposed on the spot
 
-THATCamp is an open unconference model for bringing a skills meetup to your university or organization.
+THATCamp is an open unconference model for bringing a skills meetup to your university or organization. Being an unconference it is highly flexible and up to you and your organizing committee to make it work. It is a popular model in academic libraries and digital humanities centres around the world.
 
 More information can be found at: http://thatcamp.org/
 
@@ -172,7 +187,11 @@ More information can be found at: http://thatcamp.org/
 
 ## Pycon
 
+Pycon is the flagship conference among the Python Community worldwide. There are a series of other satellite and regional Pycons, but nothing quite compares to the flagship event. The Python community is an incredible example of an open and inclusive community which invites contribution from all walks of life. If you're a Python developer or aspiring Python developer, there is a good chance you'll find long time friends and a support community by attending this conference. It is gotten big over the years, but the selectivity of talks has kept the quality incredibly high. If you have a chance, and are into Python, check it out! You'll learn many things you can bring back both how the organization runs, and about Python.
+
 ## SciPy
+
+Scipy is a conference for the Python community which focuses specifically on scientific Python and the major libraries underpinning scientific Python. This includes things like scipy, numpy, matplotlib, scikit-learn and other foundational tools and libraries. Researchers of all walks, from academia to the private sector come together each year in Austin Texas to share and build community. The SciPy community is not quite as diverse as the broader Pycon community, but it has been working hard over the years to broaden participation in the event. Usually held in Austin, Texas this event is a great meeting of the minds for those involved in scientific Python.
 
 ## SC - the Supercomputing conference
 
