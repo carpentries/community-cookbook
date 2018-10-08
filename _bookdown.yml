@@ -3,3 +3,5 @@ delete_merged_file: true
 language:
   ui:
     chapter_name: "Section "
+
+rmd_files: [ "04-tools.Rmd" ]

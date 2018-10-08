@@ -4,30 +4,31 @@ There are many ways to build long-term support for your community of practice in
 
 ### Collecting evidence
 
-To win funding support, evidence of efficacy is generally required. For every Hacky Hour attendee, the [UQ Hacky Hour team](https://hackyhourstluc.wordpress.com/) note the name, school or institute, problem to be solved, and whether this was an attendee's first visit or if it was a repeat visit. (People often come week after week until they reach a final resolution of a problem.) Details of helpers are noted as well. This information is then reorded in a spreadhsheet so that the scope of advice sought and the help provided can easily be demonstrated as evidence that a need for this kind of advice and support exists. The growing numbers demonstrate that the service will soon be overwhelmed by the demand, and that more formal support is required. 
+To win funding support, evidence of efficacy is generally required. For every Hacky Hour attendee, the [UQ Hacky Hour team](https://hackyhourstluc.wordpress.com/) note the name, school or institute, problem to be solved, and whether this was an attendee's first visit or if it was a repeat visit. (People often come week after week until they reach a final resolution of a problem.) Details of helpers are noted as well. This information is then reorded in a spreadhsheet so that the scope of advice sought and the help provided can easily be demonstrated as evidence that a need for this kind of advice and support exists. The growing numbers demonstrate that the service will soon be overwhelmed by the demand, and that more formal support is required.
 
 
 ## Schools/Deans
 
-If you're in a university environment, it can be useful to look around for various incentive grant programs at the dean or school level. These programs can come under different names, but they often support innovative ideas and initiatives that can become the seeds for more substantial change. These can be useful for running workshops, helping to coordinate a local community of instructors, or other activiites requiring resources. It is good to think of these funds as catalyzing funds which can be a springboard to a more sustainable program for supporting your initiative locally. 
+If you're in a university environment, it can be useful to look around for various incentive grant programs at the dean or school level. These programs can come under different names, but they often support innovative ideas and initiatives that can become the seeds for more substantial change. These can be useful for running workshops, helping to coordinate a local community of instructors, or other activiites requiring resources. It is good to think of these funds as catalyzing funds which can be a springboard to a more sustainable program for supporting your initiative locally.
 
-Department chairs, deans, and associate deans all walk the halls trying to hear what the challenges and opportunities are among the researchers at their institution. With the growth of data driven research and digital research skills, training is a frequent topic of conversation among research faculty and their administrative leadership. Finding ways in to this kind of conversation and deomonstrating a light-weight low-cost culture of peer-to-peer teaching that can be built into the fabric of the intitution is a win-win-win for many of these leaders. Each instituion and organisation is different, but finding ways that you can tie-in to conversations already taking place and bring forward answers to persistent and expensive problems is a great way to get traction on your campus. 
+Department chairs, deans, and associate deans all walk the halls trying to hear what the challenges and opportunities are among the researchers at their institution. With the growth of data driven research and digital research skills, training is a frequent topic of conversation among research faculty and their administrative leadership. Finding ways in to this kind of conversation and deomonstrating a light-weight low-cost culture of peer-to-peer teaching that can be built into the fabric of the intitution is a win-win-win for many of these leaders. Each instituion and organisation is different, but finding ways that you can tie-in to conversations already taking place and bring forward answers to persistent and expensive problems is a great way to get traction on your campus.
 
 ## Library
 
-Academic and research libraries have a long track-record of delivering skills workshops to their communities. With a consistent vision for peer-to-peer teaching, libraries can be a key ally to greater impact. Libraries sit at the intellectual crossorads of most research institutions, and librarians are service orientated in their outlook. They appreciate models which can empower researchers and help connect the relevence of the library and its staff into the intitutional and research fabric. Whether it is through Library Carpentry (to upskill library staff) or Data/Software Carpentry (to upskill researchers), many reasearch libraries are well aligned with this peer teaching and capacity building model of The Carpentries. Talking to a Data Management librarian, or subject librarians in key areas of funded research programs at your instituion can be a very fruitful discussion which can connect you to other conversations and build long-term support and good will for your efforts. 
+Academic and research libraries have a long track-record of delivering skills workshops to their communities. With a consistent vision for peer-to-peer teaching, libraries can be a key ally to greater impact. Libraries sit at the intellectual crossorads of most research institutions, and librarians are service orientated in their outlook. They appreciate models which can empower researchers and help connect the relevence of the library and its staff into the intitutional and research fabric. Whether it is through Library Carpentry (to upskill library staff) or Data/Software Carpentry (to upskill researchers), many reasearch libraries are well aligned with this peer teaching and capacity building model of The Carpentries. Talking to a Data Management librarian, or subject librarians in key areas of funded research programs at your instituion can be a very fruitful discussion which can connect you to other conversations and build long-term support and good will for your efforts.
 
 ## Research IT
 
-Research IT organisations invest large amounts of money into hardware platforms and the people who support them. They're seen in some disciplines as key partners in any research activity or inititaive. At the same time many Research IT organisations have been less than welcoming in how they invite new research areas onto existing infrastruture and systems. Much Research IT infrastructure is complicated and takes intentional consideration to understand before a particular research objective can be codifed into code which runs on the systems. Workshops like The Carpentries can act as a useful bridge to these organisations as they're being asked by administrators and funders to serve a more diverse population which represents all of the diversity of the insitution they operate within. By serving as a tried-and-trusted community of practice with well respected lessons, it is possible to get support from your Research IT organisation to bring more workshops to your campus. Mapping these workshops to the workshops your Research IT team already teach can help you to tie-in your work to broaden participation. 
+Research IT organisations invest large amounts of money into hardware platforms and the people who support them. They're seen in some disciplines as key partners in any research activity or inititaive. At the same time many Research IT organisations have been less than welcoming in how they invite new research areas onto existing infrastruture and systems. Much Research IT infrastructure is complicated and takes intentional consideration to understand before a particular research objective can be codifed into code which runs on the systems. Workshops like The Carpentries can act as a useful bridge to these organisations as they're being asked by administrators and funders to serve a more diverse population which represents all of the diversity of the insitution they operate within. By serving as a tried-and-trusted community of practice with well respected lessons, it is possible to get support from your Research IT organisation to bring more workshops to your campus. Mapping these workshops to the workshops your Research IT team already teach can help you to tie-in your work to broaden participation.
 
 ## Professional Societies
 
-Many professional societies see as part of their mandate the need to act as a light-house or beacon to their community around the skills necessary to do the work in that discipline in the coming era. Many disciplines today look fundamentally different in terms of research practices than they did even ten years ago. From the sequence biology data explosion to collaborative astronomy platforms and experiments, the nature of how work is done in disciplines is ever changing. By tying your work into professional societies you care about, you can help become a leader in identifying skills area needing support and bringing new interventions (workshops, summer institutes, conferences) into existence that will support your community. Carpentries workshops and lesson development can be key areas to build-in to professional societies to ensure long-term support from the international bodies supporting your discipline. 
+Many professional societies see as part of their mandate the need to act as a light-house or beacon to their community around the skills necessary to do the work in that discipline in the coming era. Many disciplines today look fundamentally different in terms of research practices than they did even ten years ago. From the sequence biology data explosion to collaborative astronomy platforms and experiments, the nature of how work is done in disciplines is ever changing. By tying your work into professional societies you care about, you can help become a leader in identifying skills area needing support and bringing new interventions (workshops, summer institutes, conferences) into existence that will support your community. Carpentries workshops and lesson development can be key areas to build-in to professional societies to ensure long-term support from the international bodies supporting your discipline.
+
 
 ## Innovation/Maker Spaces
 
-Many campuses have been building maker spaces and innovation spaces to encourage tinkering, entreprenuership and innovation. These spaces, in addition to being fun places to host workshops, can be allies in your work to spread and democratize digital research skills on your campus. Finding ways that your workshops can tie-in to inititaives and activites at these spaces, can help to broaden support for your activities beyond just research applications. Digital skills lie at the heart of digital innovation spaces. 
+Many campuses have been building maker spaces and innovation spaces to encourage tinkering, entreprenuership and innovation. These spaces, in addition to being fun places to host workshops, can be allies in your work to spread and democratize digital research skills on your campus. Finding ways that your workshops can tie-in to inititaives and activites at these spaces, can help to broaden support for your activities beyond just research applications. Digital skills lie at the heart of digital innovation spaces.
 
 ## Outside Supporters
 
@@ -42,7 +43,7 @@ event tie-in, say, at a conference within a specific discipline.
 
 There are several potential sources of workshop funding within your own institution:
 
-- individual schools, departments, or research centers, especially within those disciplines where computational and data skills are 
+- individual schools, departments, or research centers, especially within those disciplines where computational and data skills are
 needed, but are currently lacking, e.g. in humanities, linguistics, social sciences
 - research committees
 - research-related units, e.g. research office, graduate schools, postgraduate student recruitment, as they may be interested in supporting training
@@ -69,7 +70,7 @@ any advertising, or address the assembled workshop participants either within th
 
 ## Can you run a workshop *without* funding?
 
-You can! The simplest way to do that is to charge a fee to attendees to cver the costs of organising the workshop. This need not be much but
+You can! The simplest way to do that is to charge a fee to attendees to cover the costs of organising the workshop. This need not be much but
 charging has several benefits:
 
 - people who register for a fee are more likely to attend and stay for the whole workshop
@@ -88,7 +89,7 @@ This [post from the Software Carpentry blog](https://software-carpentry.org/blog
 
 In October of 2018, community member Lex Nederbragt brought forward a discussion happening at his home institution (University of Oslo) about how to scale up Carpentry teaching to have more impact on campus. Lex posed a series of questions to the community and a rich discussion was had, summarized below.
 
-[Lex Nederbragt wrote: 
+[Lex Nederbragt wrote:
 ](https://carpentries.topicbox.com/groups/discuss/Tad9e416c2ec4742e/how-can-we-scale-up-carpentries-training-at-universities)
 > By making Carpentry workshops a core offering across departments, with students able to earn credit from them, my fear is that the spirit of the volunteer effort gets lost or may become reduced. Making our workshops into required courses may change (reduce) the motivation for learners and instructors.
 > So here are my questions to you:
@@ -97,9 +98,9 @@ In October of 2018, community member Lex Nederbragt brought forward a discussion
 >* How to keep the quality of instruction, and instructor motivation, high, if workshops become organized like regular courses?
 
 
-## Discussion overview 
+## Discussion overview
 
-[Giacomo Peru](https://carpentries.topicbox.com/groups/discuss/Tad9e416c2ec4742e-M7129de063f2d223de11c9f15/how-can-we-scale-up-carpentries-training-at-universities) points out that to be succesful The Carpentries need not run afoul of existing strucutures. They need to find ways to be harmoniously in existence within the ecosystem in which they operate. 
+[Giacomo Peru](https://carpentries.topicbox.com/groups/discuss/Tad9e416c2ec4742e-M7129de063f2d223de11c9f15/how-can-we-scale-up-carpentries-training-at-universities) points out that to be succesful The Carpentries need not run afoul of existing strucutures. They need to find ways to be harmoniously in existence within the ecosystem in which they operate.
 
 
 [Stephanie Labou](https://carpentries.topicbox.com/groups/discuss/Tad9e416c2ec4742e-M2ebe0f78acab0ce249fc18f2/how-can-we-scale-up-carpentries-training-at-universities) writes that the Unviersity of California Sand Diego is considering workshops for inclusion in a co-curricular record (CCR), a detailed enumeration of the professional development activities someone has undertaken outside of formal curricula without associated red-tape around assigning credit.
@@ -110,25 +111,23 @@ In October of 2018, community member Lex Nederbragt brought forward a discussion
 
 [April Wright](https://carpentries.topicbox.com/groups/discuss/Tad9e416c2ec4742e-M0223a648d868c59f6cfeea05/how-can-we-scale-up-carpentries-training-at-universities) suggest having different sections and thus expecations as part of the same course. Combining lecture and hands on activities, but expecting more of those who take the course and expect credit. April also talks about instructor motivation and some ways to keep the instructor expeirence fresh for instructors.
 
-[Simon Waldman](https://carpentries.topicbox.com/groups/discuss/Tad9e416c2ec4742e-M1f39cde2b163166912413882/how-can-we-scale-up-carpentries-training-at-universities) notes that as workshops scale up, that it might be necessary to make workshop instruction part of people's paid jobs. 
+[Simon Waldman](https://carpentries.topicbox.com/groups/discuss/Tad9e416c2ec4742e-M1f39cde2b163166912413882/how-can-we-scale-up-carpentries-training-at-universities) notes that as workshops scale up, that it might be necessary to make workshop instruction part of people's paid jobs.
 
 [Sarah Brown](https://carpentries.topicbox.com/groups/discuss/Tad9e416c2ec4742e-Ma36b00d5ab62bada8cc4d068/how-can-we-scale-up-carpentries-training-at-universities) mentioned how Mathworks (makers of MATLAB) would fund a TA position for an expert in MATLAB in courses requiring MATLAB.
 
-[Hao Ye](https://carpentries.topicbox.com/groups/discuss/Tad9e416c2ec4742e-M7046a25f5d342a2837f478bc/how-can-we-scale-up-carpentries-training-at-universities) points out that much of relevant R and Python training is taught by adjuncts and full-time faculty seldom teach these kinds of workshops. To value these skills, Hao suggests that faculty teach these skills more. 
+[Hao Ye](https://carpentries.topicbox.com/groups/discuss/Tad9e416c2ec4742e-M7046a25f5d342a2837f478bc/how-can-we-scale-up-carpentries-training-at-universities) points out that much of relevant R and Python training is taught by adjuncts and full-time faculty seldom teach these kinds of workshops. To value these skills, Hao suggests that faculty teach these skills more.
 
 [David Bapst](https://carpentries.topicbox.com/groups/discuss/Tad9e416c2ec4742e-M7c543979d513a32bf16fe69e/how-can-we-scale-up-carpentries-training-at-universities) points out that short-form workshops and long-form semester type courses feed different niches and there is a place for both of them in the institution. David warns against thinking of one or the other, and thinking about ways both structures can thrive and feed into each other.
 
-[Sebastian Schmeier](https://carpentries.topicbox.com/groups/discuss/Tad9e416c2ec4742e-M55f7c513037d656998cda099/how-can-we-scale-up-carpentries-training-at-universities) talks about how the support structures inside semester courses are sometimes not as condicive to using Carpentry teaching practices. Sebastian addressed this by spreading the load and asking more senior students to come in 1-2 times per semester to help out. This worked, but the culture at Massey is such that this could only be supported for so long. 
+[Sebastian Schmeier](https://carpentries.topicbox.com/groups/discuss/Tad9e416c2ec4742e-M55f7c513037d656998cda099/how-can-we-scale-up-carpentries-training-at-universities) talks about how the support structures inside semester courses are sometimes not as condicive to using Carpentry teaching practices. Sebastian addressed this by spreading the load and asking more senior students to come in 1-2 times per semester to help out. This worked, but the culture at Massey is such that this could only be supported for so long.
 
 ## Scaling Up Summary and Considerations
 
-It is clear from the communnity feedback that there is a place for short-form workshops and short-form workshops afford certain leeways and teaching practices that aren't neceessarily able to be duplicated in semester courses. It is also clear that attendence to these workshops as a demonstration of a researcher's continuing education and professional development are seen as important. As you seek to navigate your own institutions or network of instututions, this thread provides a rich trove of areas to consider as you bring forth a program that works well for your community. 
+It is clear from the communnity feedback that there is a place for short-form workshops and short-form workshops afford certain leeways and teaching practices that aren't neceessarily able to be duplicated in semester courses. It is also clear that attendence to these workshops as a demonstration of a researcher's continuing education and professional development are seen as important. As you seek to navigate your own institutions or network of instututions, this thread provides a rich trove of areas to consider as you bring forth a program that works well for your community.
 
 * Short form [workshops are different](http://carpentries.org/workshops) in content and pedagogy than most semester courses.
 * 2-days or less is an important length of time to both be impactful, but not overwhelming
 * Reflecting Carpentry teaching practices into semester courses is a good thing, and is a sign of maturity in your community.
 * Having instructors share common teaching materials (our community lessons) is an important distinction of workshop teaching.
 * Finding ways for learners and instructors to receive credit for their participation in workshops is important.
-* Searching for and finding a niche for Carpentry workshops that is productive and helpful to your community needs to be done in a considered and careful manner. 
-
-
+* Searching for and finding a niche for Carpentry workshops that is productive and helpful to your community needs to be done in a considered and careful manner.
