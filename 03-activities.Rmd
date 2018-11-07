@@ -101,7 +101,11 @@ They are generally volunteer-run, and aim to build referral networks and communi
 
 ## What are they?
 
-Study groups are an activity you can bring to your local campus in order to build a local community that focuses on learning new skills together. Study groups range from discipline specific to tool specific (a particular programming language) to open and wide ranging. Overall the idea of a study group is to collectively set some objectives and learning goals and work together to accomplish them as a team. This takes a motivated group and it can help to have a few intermediate to advanced practitioners involved to help it get going faster.
+The Carpentries study group is a small group of people who regularly meet to discuss shared fields of study. These could be the use of programming languages like R, Python or statistics in research. These groups can be found in various institutions, and different settings that share common interest. They meet up twice a month on average or as often as needed.
+
+They share S.M.A.R.T goals within the set curriculum even broader, to widen the scope of what is already known however contributing to the body of knowledge. Study groups are meant to share and solve problems together, it may not necessarily be from grassroots up or top-down but they share skills and expertise on the subject in question. It is where certain advancements are done, corrections are made or other alternative ways to solve problems are discussed and positively critiqued at the same time building one another’s capabilities and knowledge to grow.
+
+Each study group is unique and draws on the backgrounds and abilities of its members to determine the material that will be covered. Study groups have helped many individuals especially novices who have trouble being in a large group setting to be able to be at an advancement close to competent and even more often, a leader who is not actively studying the material will direct group activities. Some institutions actively set up study group programs for students to sign up. The carpentry study groups include 3-5 students and  an instructor who has the specific skill(s) needed for that group- moreover drawn from the curriculum. Study groups help build individuals’  where a big group cannot reach.
 
 ## How to start one?
 
