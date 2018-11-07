@@ -86,16 +86,64 @@ These might include issues with Python, R, HPC, statistics, MatLab or other soft
 
 They are generally volunteer-run, and aim to build referral networks and communities of practice around research software and skills.
 
+### Starting a Hacky Hour
+
+#### Finding a location
+
+A cafe or restaurant on or near campus is a nice informal location. Take over a large table and put up a sign to try and attract people in and make sure they find you. Sometimes it's obvious which group is the hacky hour, they all have laptops out!
+
+If a cafe isn’t available somewhere that people can bring food to is a good alternative. Having free food available is always a good way to attract people. If this isn’t possible then booking a room at lunch time and suggesting people bring their lunch can work instead. 
+
+Traditional lecture theatres should be avoided as it's not the best type of room to have lots of small discussions in. A room with several smaller round tables works best. 
+
+#### Choosing a Time
+
+It can be difficult to find a time that fits for everyone. It might be a good idea to try out different times or to alternate between different time slots. Try to find a slot that doesn’t clash with major meetings or seminars amongst groups who are likely to come. You might not initially know when all these are but will find that people will start to say they’d like to come but can’t make it due to a clash. If you’re using a cafe, try to find a quiet time when there will be space and not too much background noise. 
+
+#### Promoting a Hacky Hour
+
+* Put up posters and flyers in places where researchers might see them. For example in/near research student offices.
+* Send emails to mailing lists of people who might be interested. For example research students, research staff and HPC users.
+* Get it added to your university’s events calendar or sent onto events mailing lists.
+* Mention them in Software Carpentry workshops or any other relevant presentations.
+* Tell anyone you know who’s looking for help that it’s a good time to ask.
+* Tell anyone you know who might offer help that it’s a good time to offer it. If providing this kind of support isn’t really their job it can be a good way of restricting it to just an hour a week.
+
+
 #### Some Hacky Hour resources
 
 - [Hacky Hour Handbook](https://github.com/amandamiotto/HackyHourHandbook)
-- UQ Hacky Hour [blog](https://hackyhourstluc.wordpress.com/) and [Twitter](https://twitter.com/hackyhourstluc) feed
-- [Griffith HackyHour Twitter](https://twitter.com/hackyhourgu) and [website](https://hackyhourgriffith.wordpress.com/)
-- [Curtin Uni HackyHour](https://twitter.com/CUHackyHour)
-- [UWA HackyHour](https://twitter.com/HackyHourUWA)
-- [JCU HackyHour](https://twitter.com/JCUHackyHour)
-- [Uni of Auckland Hacky Hour](https://twitter.com/uoahackyhour)
-- [QUT Hacky Hour](https://twitter.com/GPHackyHour)
+
+
+##### Hacky Hour groups around the world
+
+Australia:
+
+* UQ Hacky Hour [blog](https://hackyhourstluc.wordpress.com/) and [Twitter feed](https://twitter.com/hackyhourstluc)
+* Griffith HackyHour [Twitter](https://twitter.com/hackyhourgu) and [website](https://hackyhourgriffith.wordpress.com/)
+* [Curtin Uni HackyHour](https://twitter.com/CUHackyHour)
+* [UWA HackyHour](https://twitter.com/HackyHourUWA)
+* [JCU HackyHour](https://twitter.com/JCUHackyHour)
+* [QUT Hacky Hour](https://twitter.com/GPHackyHour)
+* [Murdoch University Hacky hour](https://twitter.com/HackyH_Murdoch)
+
+New Zealand:
+
+* [Uni of Auckland Hacky Hour](https://twitter.com/uoahackyhour)
+
+UK
+
+* Aberystwyth University [website](https://tinyurl.com/HackyHourAber), [facebook](https://www.facebook.com/hackyhouraber/) and [twitter](https://twitter.com/hackyhouraber).
+
+Germany
+
+* [Göttingen](https://hackyhour.github.io/Goettingen/)
+* [Würzburg](https://hackyhour.github.io/Wuerzburg/)
+* [Cologne](https://hackyhour.github.io/Cologne/)
+
+USA
+
+* [Pennsylvania State](http://www.hackyhour.com)
 
 # Carpentries Study Groups
 
