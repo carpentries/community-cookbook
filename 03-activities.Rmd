@@ -168,6 +168,9 @@ Outline the periodic study group international meetings and how study groups sup
 FIXME - link to Study Group website/map
 
 # Book Clubs
+
+See [Katherine Wu's "Continuing Education at Work" talk](https://www.youtube.com/watch?v=9uRho69xSAI&t=165).
+
 # Events
 
 There are various kinds of annual/semi-annual events you can run to give your community a focused opportunity to share and plan more intensely with each other, and to invite new members into the community. Within The Carpentries campus communities, ResBaz (Research Bazaar) is a popular multi-day event to share research software tools and how to use them. These events are as much about training and skills as they are about networking and ideas. There are many types of un-conference and satellite conference that can be exciting to bring to your organization. These include events like OpenCon-local, THATCamp and more. Planning one of these local satellite events can be a great way to bring people together on your campus. Additionally, there are several events in the Carpentries community that draw Carpentries instructors. We have an etherpad where we share among the instructor community what conferences we'll be attending. In the cookbook we'll list some marquee events that bring many Carpentries community members together.
