@@ -98,20 +98,17 @@ Library Carpentry has nine [lessons](https://librarycarpentry.org/#portfolio) in
 the works, some more mature than others. New lessons are being drafted around
 FAIR principles and digital preservation.
 
-| Lesson | Scope | | :----- | :----- | |Data intro for librarians | An
-introduction to data structures, regular expressions, and computing terms | |
-Unix Shell | An introduction to command line interfaces and task automation
-using the Unix shell | | OpenRefine | An introduction to cleaning up and
-enhancing a dataset using OpenRefine | | Git Intro for Librarians | An
-introduction to version control using Git and GitHub for collaboration | | SQL
-for Librarians| An introduction to relational database management using the
-SQLite tool | | Webscraping | An introduction to extracting structured data from
-websites using a range of tools | | Tidy data for librarians | An introduction
-to good data organisation, which is the foundation of much of our day-to-day
-work in libraries | | Introduction to Python | An introduction to Python, a
-general purpose programming language | | Data Intro for Archivists | An
-introduction to data structures, regular expressions, and computing terms for
-archivists |
+| Lesson | Scope |
+| :----- | :----- |
+|Data intro for librarians | An introduction to data structures, regular expressions, and computing terms |
+|Unix Shell| An introduction to command line interfaces and task automation using the Unix shell |
+| OpenRefine | An introduction to cleaning up and enhancing a dataset using OpenRefine |
+| Git Intro for Librarians | An introduction to version control using Git and GitHub for collaboration |
+| SQL for Librarians| An introduction to relational database management using the SQLite tool |
+| Webscraping | An introduction to extracting structured data from websites using a range of tools |
+| Tidy data for librarians | An introduction to good data organisation, which is the foundation of much of our day-to-day work in libraries |
+| Introduction to Python | An introduction to Python, a general purpose programming language |
+| Data Intro for Archivists | An introduction to data structures, regular expressions, and computing terms for archivists |
 
 ## Other Skills Workshops
 
