@@ -1,10 +1,31 @@
-# Skills Workshops
+applicable# Skills Workshops
 
 Short format workshops that run over one or more days can be a great way to
 bring people together to share skills. For workshops to be most impactful, it is
 important to use good quality lessons and have them taught by prepared
 instructors. The Carpentries supports and mentors a global community of
 instructors and lessons they can teach.  
+
+# The Carpentries
+
+The Carpentries is an umbrella organisation which sits over the top of several
+lesson communities in order to provide a common super-structure which focuses on
+valuing teaching skill and quality lessons to bring workshops with greater
+impact to research organisations. A major activity of the organisation is to
+run  instructor training workshops which prepare instructors drawn from research
+and research support communities to use evidence based teaching practices. The
+[Instructor Training
+Program](https://carpentries.github.io/instructor-training) is openly and
+freely made available under a Creative Commons CC-BY license model. The
+Carpentries also runs instructor training events for
+[member organisations](https://carpentries.org/members/) who
+make a commitment to annually supporting them. Through trained instructors and
+openly developed community lessons, any research organisation in the world can
+create a highly effective and impactful instructor community. To learn more,
+you can look at the [membership models](https://carpentries.org/membership/)
+and reach out to
+[memberships@carpentries.org](mailto:memberships@carpentries.org) for more
+information.
 
 ## Software Carpentry
 
@@ -13,11 +34,15 @@ Overview of [Software Carpentry](https://software-carpentry.org/) workshops
 ### Lessons
 
 Software Carpentry aims to help people begin to think computationally about the
-work they do. It does this by introducing the shell for task automation, then by
-introducing a programming language such as R or Python, and then by bringing in
-version control systems such as Git to ensure that research work done can be
-easily retrieved, repeated, or adapted for other uses. Using these methods,
-learners can lay the foundation for performing open, reproducible research.
+work they do. It does this by introducing pieces of software which are useful
+stable and used by very large communities of researchers around the world. The
+emphasis isn't on new and flashy technologies, but those that have been
+battle-tested and used for years. Software Carpentry starts with  the shell for
+task automation, then by introducing a programming language such as R or Python,
+and then by bringing in version control systems such as Git to ensure that
+research work done can be easily retrieved, repeated, or adapted for other uses.
+Using these methods, learners can lay the foundation for performing open,
+reproducible research.
 
 Software Carpentry maintains lessons in the Unix Shell, Git, R, Python, SQL,
 Make and Mercurial. Software Carpentry lessons focus on teaching tools in a
@@ -65,6 +90,13 @@ focus on practical examples. Learners then learn about new data types and
 language constructs along the way, preventing data types being taught in the
 abstract.
 
+
+The Carpentries can help you to run your first Software Carpentry Workshop at
+your organisation.
+[Request a workshop](https://amy.carpentries.org/forms/workshop/)
+today!
+
+
 ## Data Carpentry
 
 A [Data Carpentry](https://datacarpentry.org/workshops/) workshop teaches the
@@ -86,6 +118,12 @@ Data Carpentry currently have [curriculum](https://datacarpentry.org/lessons/)
 in:
 
 - Ecology Genomics Geospatial data Social sciences
+
+The Carpentries can help you to run your first Data Carpentry Workshop at
+your organisation.
+[Request a workshop](https://amy.carpentries.org/forms/workshop/)
+today!
+
 
 ## Library Carpentry
 
@@ -110,13 +148,18 @@ FAIR principles and digital preservation.
 | Introduction to Python | An introduction to Python, a general purpose programming language |
 | Data Intro for Archivists | An introduction to data structures, regular expressions, and computing terms for archivists |
 
+The Carpentries can help you to run your first Library Carpentry Workshop at
+your organisation.
+[Request a workshop](https://amy.carpentries.org/forms/workshop/)
+today!
+
 ## Other Skills Workshops
 
 The [Programming Historian](https://programminghistorian.org) has a number of
 useful [lessons](https://programminghistorian.org/lessons/) on a range of tools
 and skills.
 
-These lessons would be appplicable to anyone who wants to imrpove their digital
+These lessons would be applicable to anyone who wants to improve their digital
 skills - they have wider relevance beyond the fields of history and the
 humanities.
 
@@ -354,11 +397,14 @@ The theme of CarpentryCon 2018 was *Building Locally, Connecting Globally*.
 - **Community Building:** bring together members of the Carpentry community,
   including instructors, partners, advocates, and staff, together with people
   sharing similar interests from around the globe. We had a “come and learn”
-  format that is different from most conferences. **Sharing Knowledge:** The
+  format that is different from most conferences.
+- **Sharing Knowledge:** The
   event included sessions on teaching methods, curriculum development, community
-  organization, and leadership skills. **Networking:** Opportunities were
+  organization, and leadership skills.
+- **Networking:** Opportunities were
   provided for participants to come together informally to share stories about
-  challenges and successes. **Contributed talks/posters:** There was a poster
+  challenges and successes.
+- **Contributed talks/posters:** There was a poster
   session where attendees shared how they have incorporated Carpentry techniques
   into their own research and teaching, and/or how they have grown their local
   Carpentry community. This was crucial as presenting was a requirement for
@@ -425,6 +471,8 @@ community. The SciPy community is not quite as diverse as the broader Pycon
 community, but it has been working hard over the years to broaden participation
 in the event. Usually held in Austin, Texas this event is a great meeting of the
 minds for those involved in scientific Python.
+
+## RStudio Conference
 
 ## SC - the Supercomputing conference
 
