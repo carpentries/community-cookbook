@@ -14,21 +14,22 @@ to build one or more communities of practice around computational skills.
 
 The work of community building is not always easy, it can be challenging to
 reach critical mass where things feel like they come together and work on their
-own. As with building any community, you have to help people understand the
-possibilities that working as a collective can bring. To do this, we have listed
-various strategies throughout this guide.
+own. As with building any community, there is work to be done to help people
+understand the possibilities that working together can bring. To do this, we
+have listed various strategies throughout this guide and we welcome your
+contributions of  what has and hasn't worked for you.
 
-There are proven ways to run events such as workshops, un-conferences and
-knowledge bazaars that bring people together and nudge them to talk to each
+There are tried and tested ways to run events such as workshops, un-conferences
+and knowledge bazaars that bring people together and nudge them to talk to each
 other about tools, workflows, opportunities, and challenges. The overarching
 principle of all of these events is to bring willing participants together to
-learn from each other using quality resources and materials.
+learn from each other supported by quality resources and materials.
 
 In almost every discipline today, cutting edge research questions require some
 level of computational skill. From astronomers collectively looking at the
 gravitational wiggles of thousands of distant stars to digital humanists
 training document classifiers to "read" with a critical eye, eventually we're
-all going to run into technical challenges.
+all going to run into some kind of technical challenge in our digital research.
 
 How can we support one another and develop rich and inviting communities that
 serve all participants? A group of novices with little skill coming together can
