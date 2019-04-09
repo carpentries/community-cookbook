@@ -247,15 +247,13 @@ will be space and not too much background noise.
 
 Australia:
 
-* UQ Hacky Hour [blog](https://hackyhourstluc.wordpress.com/) and [Twitter
-* feed](https://twitter.com/hackyhourstluc) Griffith HackyHour
-* [Twitter](https://twitter.com/hackyhourgu) and
-* [website](https://hackyhourgriffith.wordpress.com/) [Curtin Uni
-* HackyHour](https://twitter.com/CUHackyHour) [UWA
-* HackyHour](https://twitter.com/HackyHourUWA) [JCU
-* HackyHour](https://twitter.com/JCUHackyHour) [QUT Hacky
-* Hour](https://twitter.com/GPHackyHour) [Murdoch University Hacky
-* hour](https://twitter.com/HackyH_Murdoch)
+* The University of Queensland - UQ Hacky Hour [Twitter](https://twitter.com/hackyhourstluc) and [website](https://hackyhourstluc.wordpress.com/)
+* Griffith Hacky Hour [Twitter](https://twitter.com/hackyhourgu) and [website](https://hackyhourgriffith.wordpress.com/)
+* Curtin University Hacky Hour [Twitter](https://twitter.com/CUHackyHour)
+* University of Western Australia - UWA Hacky Hour [Twitter](https://twitter.com/HackyHourUWA)
+* James Cook University - JCU Hacky Hour [Twitter](https://twitter.com/JCUHackyHour)
+* Queensland University of Technology - QUT  Hacky Hour [Twitter](https://twitter.com/GPHackyHour)
+* Murdoch University Hacky Hour [Twitter](https://twitter.com/HackyH_Murdoch)
 
 New Zealand:
 
