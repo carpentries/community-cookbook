@@ -2,8 +2,31 @@
 
 Extra resources and supporting material
 
+## Local Community Websites 
 
-# Community Formation Stories
+There are a number of local communities around the world which run their own 
+community websites for their activities with The Carpentries. These can be 
+found bellow. If you know of, or manage any communities like this, please 
+[file an issue](https://github.com/carpentries/community-cookbook/issues) or 
+[Pull Request](https://github.com/carpentries/community-cookbook/pulls)
+with the repository used to manage this document to get it listed.
+
+- [Study Group - The University of Otago, Dunedin, NZ](https://otagocarpentries.github.io)
+- [UF Carpentries Club](https://www.uf-carpentries.org)
+- [Software Carpentry and Data Carpentry at The University of Oklahoma](https://libraries.ou.edu/content/software-and-data-carpentry)
+- [New England Software Carpentry Library Consortium](https://nesclic.github.io)
+- [Carpentry @ Univ. of Oslo](https://uio-carpentry.github.io/)
+- [The Software Sustainability Institute](https://software.ac.uk/programmes-events/carpentries/software-carpentry)
+- [eScience at University of Washington](https://escience.washington.edu)
+- [The University of Wisconsin - Madison](https://hub.datascience.wisc.edu/training)
+- [Data Science at UCSF](https://www.library.ucsf.edu/ask-an-expert/data-science/)
+- [Illinois - Hands on with CSE](https://cse.illinois.edu/cse-training/)
+- [UC Berkeley Carpentries Club](https://bids.berkeley.edu/research/berkeley-carpentries-club)
+- [UChicago Carpentries Club](https://uc-carpentries.github.io)
+- [Smithsonian Carpentries Group](https://datascience.si.edu/carpentries)
+
+
+## Community Formation Stories
 
 What follows is community formation stories about the successes and challenges
 of building a local community of instructors.  
