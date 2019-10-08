@@ -9,11 +9,12 @@ instructors and lessons they can teach.
 # The Carpentries
 
 The Carpentries is an umbrella organisation which sits over the top of several
-lesson communities in order to provide a common super-structure which focuses on
+lesson programs (Software Carpentry, Data Carpentry and Library Carpentry)
+in order to provide a common structure focusing on 
 valuing teaching skill and quality lessons to bring workshops with greater
 impact to research organisations. A major activity of the organisation is to
 run  instructor training workshops which prepare instructors drawn from research
-and research support communities to use evidence based teaching practices. The
+and research-support communities to apply evidence based teaching practices. The
 [Instructor Training
 Program](https://carpentries.github.io/instructor-training) is openly and
 freely made available under a Creative Commons CC-BY license model. The
@@ -29,7 +30,17 @@ information.
 
 ## Software Carpentry
 
-Overview of [Software Carpentry](https://software-carpentry.org/) workshops
+[Software Carpentry](https://software-carpentry.org/) aims to aid researchers 
+to become more capable in writing software for research applications. This means
+focusing on programming languages, scripting environments and applying version 
+control to manage code. Software Carpentry workshops use a hands-on type-along
+pedagogy to aid researchers in building confidence and capability in the 
+UNIX Shell (BASH), Python or R and the version control software Git. Optionally
+we have modules for unit-testing and SQL which can also help round-out a two-day 
+workshop, based on needs. The Software Carpentry workshop is a great way to get-started
+building some computational skills and abilities into a research community. 
+The practical and hands-on skills, and the methods by which they are taught can be
+useful for other follow-on advanced teaching. 
 
 ### Lessons
 
