@@ -11,7 +11,7 @@ addons:
     - libxml2-dev
 branches:
   only:
-  - master
+  - main
 script:
 - make all 
 deploy:
