@@ -241,14 +241,17 @@ will be space and not too much background noise.
 #### Promoting a Hacky Hour
 
 * Put up posters and flyers in places where researchers might see them. For
-* example in/near research student offices. Send emails to mailing lists of
-* people who might be interested. For example research students, research staff
-* and HPC users. Get it added to your university’s events calendar or sent onto
-* events mailing lists. Mention them in Software Carpentry workshops or any
-* other relevant presentations. Tell anyone you know who’s looking for help that
-* it’s a good time to ask. Tell anyone you know who might offer help that it’s a
-* good time to offer it. If providing this kind of support isn’t really their
-* job it can be a good way of restricting it to just an hour a week.
+  example in/near research student offices. 
+* Send emails to mailing lists of people who might be interested. For example
+  research students, research staff and HPC users. 
+* Get it added to your university’s events calendar or sent onto events mailing
+  lists. 
+* Mention them in Software Carpentry workshops or any other relevant 
+  presentations. 
+* Tell anyone you know who’s looking for help that it’s a good time to ask.
+* Tell anyone you know who might offer help that it’s a good time to offer it. 
+  If providing this kind of support isn’t really their job it can be a good way
+  of restricting it to just an hour a week.
 
 #### Some Hacky Hour resources
 
